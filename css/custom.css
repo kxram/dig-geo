@@ -4,3 +4,4 @@ html { font-family: Andana, serif; }
 h1, h2, h3, h4, h5, h6 { font-family: Montserrat, sans-serif; }
 h1 { font-weight: normal }
 h2 { text-transform: uppercase; font-weight:normal }
+.icon { width: 100px; height: 100px; border-radius: 10px; border: 2px solid gray;
