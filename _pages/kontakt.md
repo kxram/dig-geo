@@ -1,6 +1,7 @@
 ---
-layout: page
 title: Kontakt
+permalink: kontakt
+layout: page
 order: 10
 ---
 

@@ -1,7 +1,8 @@
 ---
-layout: page
 title: Mitglieder
+permalink: mitglieder
 order: 3
+layout: page
 ---
 
 [Dr. Pablo Abend](http://www.mekuwi.phil-fak.uni-koeln.de/pablo_abend.html)  

@@ -1,7 +1,7 @@
 <div class="sidebar">
   <div class="container">
     <div class="sidebar-about">
-      <img src="{{ site.baseurl }}/bilder/logo_big.png" class = "icon" />
+      <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/bilder/logo_big.png" class = "icon" /></a>
       <h1>
         <a href="{{ site.baseurl }}/">
           {{ site.title }}
@@ -13,7 +13,7 @@
     <nav class="sidebar-nav">
 {% assign my_pages = (site.pages | sort: 'order' | where: 'layout', 'page') %}
       {% for page in my_pages  %}
-      <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}/#{{ page.title }}">{{ page.title }}</a>
+      <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
       {% endfor %}
     </nav>
 

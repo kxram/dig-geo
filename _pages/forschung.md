@@ -1,8 +1,11 @@
 ---
-layout: page
 title: Unsere Forschung
-order: 0
+permalink: forschung
+order: 0.6
+layout: page
 ---
+
+![Aus: "Moving at different speeds" (Ein kritisches Kartographieprojekt von Sharai Lewis-Gruss und Till Straube]({{site.baseurl}}/bilder/MovingAtDifferentSpeeds_InconvenientCartography.jpg)
 
 Immer mehr digitale Informationen liegen als geographisch lokalisierbare Daten (Geodaten) vor. Dies verändert Raumverstehen, Raumaneignung und gesellschaftliches Miteinander. „Digitale Geographie“ hat zum Ziel, sich kritisch mit diesen Phänomenen auseinanderzusetzen.
 

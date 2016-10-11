@@ -1,15 +1,7 @@
-markdown:         redcarpet
-highlighter:      pygments
-permalink:        pretty
-
-# Setup
+baseurl:          /dig-geo
 title:            'Digitale Geographien'
 tagline:          'Forschung zu Geodaten, Code und Gesellschaft'
 description:      'Ein deutschsprachiges Forschungsnetzwerk zu Geodaten, Code und Gesellschaft'
 email:            kontakt@digitale-geographien.de
-baseurl:          /dig-geo
 include:          ['_pages']
-
-collections:
-  events:
-    output: true
+permalink:        /:categories/:year/:slug
