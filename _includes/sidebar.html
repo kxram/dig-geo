@@ -11,9 +11,10 @@
     </div>
 
     <nav class="sidebar-nav">
+        <a class="sidebar-nav-item{% if page.url == '/' %} active{% endif %}" href="{{ site.baseurl }}/">Ankündigungen</a>
 {% assign my_pages = (site.pages | sort: 'order' | where: 'layout', 'page') %}
-      {% for page in my_pages  %}
-      <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
+      {% for node in my_pages  %}
+      <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
       {% endfor %}
     </nav>
 

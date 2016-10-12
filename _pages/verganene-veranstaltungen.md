@@ -1,6 +1,6 @@
 ---
-title: Veranstaltungen
-permalink: veranstaltungen
+title: Vergangene Veranstaltungen
+permalink: vergangene-veranstaltungen
 order: 1
 layout: page
 ---

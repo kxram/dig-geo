@@ -17,8 +17,8 @@ Institut für Länderkunde Leipzig
 Christian Bittner  
 Institut für Geographie, Universität Erlangen-Nürnberg
 
-Prof. Dr. Marc Boeckler  
-Institut für Geographie, Universität Frankfurt a. Main
+[Prof. Dr. Marc Boeckler](https://www.uni-frankfurt.de/45478395/01_portrait)  
+Institut für Humangeographie, Universität Frankfurt am Main
 
 Konstantin Böhm  
 Ancud IT, Nürnberg
@@ -81,12 +81,12 @@ Prof. Dr. Christoph Schlieder
 Institut für Kulturinformatik, Universität Bamberg
 
 Martin Stephan  
-Institut für Geographie,Universität Bayreuth
+Institut für Geographie, Universität Bayreuth
 
 Dr. Harald Sterly  
 Institut für Geographie, Universität zu Köln
 
-Till Straube  
+[Till Straube](https://www.uni-frankfurt.de/50025353/01_portrait_de)  
 Institut für Humangeographie, Universität Frankfurt am Main
 
 Prof. Dr. Julia Verne  

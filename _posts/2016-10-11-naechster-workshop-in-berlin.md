@@ -1,5 +1,5 @@
 ---
-category: ankuendigungen
+category: news
 title: Nächster Workshop in Berlin
 ---
 

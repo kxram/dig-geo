@@ -4,4 +4,4 @@ tagline:          'Forschung zu Geodaten, Code und Gesellschaft'
 description:      'Ein deutschsprachiges Forschungsnetzwerk zu Geodaten, Code und Gesellschaft'
 email:            kontakt@digitale-geographien.de
 include:          ['_pages']
-permalink:        /:categories/:year/:slug
+permalink:        /:categories/:slug
