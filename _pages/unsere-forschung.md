@@ -3,6 +3,7 @@ title: Unsere Forschung
 permalink: unsere-forschung
 layout: page
 order: 0.1
+show_in_sidebar: true
 ---
 
 {% include image.html filename = 'MovingAtDifferentSpeeds_InconvenientCartography.jpg' description='Aus: „Moving at different speeds“, ein kritisches Kartographieprojekt von Sharai Lewis-Gruss und Till Straube' %}

@@ -3,6 +3,7 @@ title: Literatursammlung
 permalink: literatursammlung
 order: 2
 layout: page
+show_in_sidebar: true
 ---
 
 ## Aus dem Netzwerk

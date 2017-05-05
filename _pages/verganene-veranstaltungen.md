@@ -3,6 +3,7 @@ title: Vergangene Veranstaltungen
 permalink: vergangene-veranstaltungen
 order: 1
 layout: page
+show_in_sidebar: true
 ---
 
 
