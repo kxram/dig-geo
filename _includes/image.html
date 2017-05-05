@@ -1,4 +1,5 @@
+{% assign url = {{site.baseurl}} | append: '/bilder/' | append: include.filename %}
 <figure>
-    <img src="{{ include.url }}" alt="{{ include.description }}"/>
+    <img src="{{ url }}" alt="{{ include.description }}"/>
     <figcaption>{{ include.description }}</figcaption>
 </figure>
