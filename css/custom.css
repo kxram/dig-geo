@@ -2,7 +2,7 @@
 
 html { font-family: 'PT Serif', serif; } 
 h1, h2, h3, h4, h5, h6 { font-family: Montserrat, sans-serif; }
-h1 { font-weight: normal }
+h1 { font-weight: normal; font-size: 2.6rem }
 h2 { text-transform: uppercase; font-weight:normal }
 small { font-size: 0.7rem; line-height: 1.1 }
 figure { margin-left: 0; margin-right: 0; }
