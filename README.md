@@ -3,7 +3,7 @@
 1. Einen GitHub Account erstellen / einloggen
 1. Im Repository [ktiu/dig-geo](http://github.com/ktiu/dig-geo) die betreffende Datei finden (siehe "Seitenstruktur)
 2. Auf der zu ändernden Datei auf den kleinen Stift im Menü oben rechts klicken
-![Fork this project and edit the file](bilder/tutorial/fork_and_edit.png)
+![Fork this project and edit the file](https://raw.githubusercontent.com/ktiu/dig-geo/master/bilder/tutorial/fork_and_edit.png)
 3. Änderungen vornehmen und auf "Propose file change" klicken
 4. Überprüfen und "Create pull request" wählen
 5. Ggf. eine kurze Beschreibung / Erklärung der Änderungen verfassen und Pull request bestätigen
