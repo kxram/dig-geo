@@ -1,21 +1,13 @@
-# Zu dieser Seite
+# Für schnelle kleine Änderungen
 
-## Technologien
+1. Einen GitHub Account erstellen / einloggen
+1. Im Repository [ktiu/dig-geo](http://github.com/ktiu/dig-geo) die betreffende Datei finden (siehe "Seitenstruktur)
+2. Auf der zu ändernden Datei auf "Make changes" klicken
+3. ...
 
-Diese Seite ist auf GitHub gehostet.
+# Seitenstruktur
 
-Sie benutzt Jekyll um aus Markdown-Dateien HTML-Seiten zu rendern.
+# Technologien
 
-## Wie man Änderungen an dieser Seite macht
-
-Es gibt mehrere Möglichkeiten, an dieser Seite Änderungen vorzunehmen, die im Folgenden von einfach (schnelle Änderungen, Ergänzungen) bis schwer (komplexe Änderungen, Redesign) aufgeführt sind.
-
-### 1) Online Pull-Request
-
-#### Voraussetzungen
-
-Github-Account
-
-#### Anleitung
-
-
+- Diese Seite ist auf GitHub gehostet. 
+- Die 
