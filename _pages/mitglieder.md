@@ -63,8 +63,8 @@ Institut für Geographie, Universität Augsburg
 Dr. Dominik Kremer  
 Bamberg
 
-Florian Ledermann  
-Institut für Kartographie, Technische Universität Wien
+[Florian Ledermann](http://cartography.tuwien.ac.at/florian-ledermann/)
+Forschungsbereich Kartographie, Technische Universität Wien
 
 Dr. Peter Mandl  
 Institut für Geographie, Universität Klagenfurt
