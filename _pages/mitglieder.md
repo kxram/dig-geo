@@ -64,6 +64,7 @@ Dr. Dominik Kremer
 Bamberg
 
 [Florian Ledermann](http://cartography.tuwien.ac.at/florian-ledermann/)
+
 Forschungsbereich Kartographie, Technische Universität Wien
 
 Dr. Peter Mandl  
