@@ -22,7 +22,7 @@
 1. Im Repository [ktiu/dig-geo](https://github.com/ktiu/dig-geo) auf "Fork" klicken. Das kopiert das komplette Projekt in den eigenen Account. (Das passiert übrigens auch bei der schnellen Methode automatisch im Hintergrund.)
 1. Im *eigenen* Repository (also https://github.com/*\{eigener-benutzername\}*/dig-geo) auf "Settings" klicken
 2. Im Menüpunkt *GitHub Pages* die Option *Source* auf "Master" setzen. Damit werden die Änderungen, die im eigenen Repository vorgenommen werden, live (mit einer kleinen Verzögerung) angezeigt.
-3. Die Adresse für die Vorschau lautet https://*\{eigener-benutzername\}*.github.io/dig-geo/ 
+3. Die Adresse für die Vorschau lautet https://{eigener-benutzername}.github.io/dig-geo/ 
 (Die Profi-Variante ist dann, sich den GitHub Desktop [oder Git] und [Jekyll](https://jekyllrb.com) zu installieren, das Repository lokal zu 'klonen' und sich die Änderungen in Echtzeit lokal anzeigen zu lassen.)
 4. Wenn die eigene Kopie soweit ist, dass die Änderungen in die Live-Seite einfließen sollen, muss noch ein Pull-Request erstellt werden.
 
