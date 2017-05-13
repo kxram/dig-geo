@@ -20,14 +20,14 @@
 ...(z.B. Designänderungen) ist es besser, zuerst an einer eigenen Kopie des gesamten Projekts Änderungen vorzunehmen und sich anzeigen zu lassen. Das geht so:
 
 1. Im Repository [ktiu/dig-geo][3] auf "Fork" klicken. Das kopiert das komplette Projekt in den eigenen Account. (Das passiert übrigens auch bei der schnellen Methode automatisch im Hintergrund.)
-1. Im *eigenen* Repository (also https://github.com/**{eigener-benutzername}**/dig-geo) auf "Settings" klicken
+1. Im *eigenen* Repository (also https://github.com/{eigener-benutzername}/dig-geo) auf "Settings" klicken
 2. Im Menüpunkt **GitHub Pages** die Option **Source** auf »master« setzen. Damit werden die Änderungen, die im eigenen Repository vorgenommen werden, live (mit einer kleinen Verzögerung) angezeigt.
-3. Die Adresse für die Vorschau lautet: https://**{eigener-benutzername}**.github.io/dig-geo/
+3. Die Adresse für die Vorschau lautet: https://{eigener-benutzername}.github.io/dig-geo/
 	- Der Markdown-Editor [Prose][4] kann hierbei helfen.
 	- Die Profi-Variante ist dann, sich den [GitHub Desktop][5] (oder sogar nur Git) und [Jekyll][6] zu installieren, das Repository lokal zu ›klonen‹ und sich die Änderungen in Echtzeit auf localhost anzeigen zu lassen.
 4. Wenn die eigene Kopie soweit ist, dass die Änderungen in die Live-Seite einfließen sollen, muss noch ein ›pull request‹ erstellt werden. Hierzu auf **New pull request** klicken
 5. Dann als **base fork** auswählen: »ktiu/dig-geo«
-6. Als **head fork**: »**{eigener-benutzername}**/dig-geo«
+6. Als **head fork**: »{eigener-benutzername}/dig-geo«
 7. Dann prüft GitHub, ob die Versionen zusammengeführt werden können. Solange nicht in der Zwischenzeit die gleichen Zeilen bearbeitet wurden, sollte das gehen.
 8. Auf **Create pull request** klicken und dann nochmal bestätigen. Fertig!
 
