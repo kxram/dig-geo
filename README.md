@@ -37,10 +37,10 @@
 - Das Format der Dateien ist Markdown, welches dann automatisch in HTML umgewandelt wird. https://guides.github.com/features/mastering-markdown/
 - Die Seite ist auf GitHub gehostet, wofür es hier eine schöne Einleitung gibt: https://guides.github.com/introduction/flow/
 
-[1]:	github.com/ktiu/dig-geo
+[1]:	https://github.com/ktiu/dig-geo
 [2]:	#projektstruktur
-[3]:	github.com/ktiu/dig-geo
-[4]:	prose.io
+[3]:	https://github.com/ktiu/dig-geo
+[4]:	https://prose.io
 [5]:	https://desktop.github.com/
 [6]:	https://jekyllrb.com
 
