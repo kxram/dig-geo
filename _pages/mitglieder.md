@@ -6,6 +6,17 @@ layout: page
 show_in_sidebar: true
 ---
 
+
+<!-- ************************
+     * ACHTUNG BITTE LESEN! *
+     ************************
+
+     Damit das mit den Zeilenumbrüchen hinhaut, müssen jeweils hinter der
+     ersten Zeile (also hinter dem Namen, bzw. hinter der geschlossenen Klammer
+     vom Link) noch zwei Leerzeichen stehen.  -->
+
+
+
 [Dr. Pablo Abend](http://www.mekuwi.phil-fak.uni-koeln.de/pablo_abend.html)  
 Universität zu Köln
 
