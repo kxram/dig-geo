@@ -4,6 +4,7 @@ permalink: mitglieder
 order: 3
 layout: page
 show_in_sidebar: true
+published: true
 ---
 
 
@@ -20,7 +21,7 @@ show_in_sidebar: true
 [Dr. Pablo Abend](http://www.mekuwi.phil-fak.uni-koeln.de/pablo_abend.html)  
 Universität zu Köln
 
-Dr. Michael Bauder  
+[Dr. Michael Bauder](https://www.geographie.uni-freiburg.de/ikg/mitarb/bauder_m)  
 Universität Freiburg
 
 Lea Bauer  
