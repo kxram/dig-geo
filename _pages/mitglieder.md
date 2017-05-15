@@ -4,12 +4,24 @@ permalink: mitglieder
 order: 3
 layout: page
 show_in_sidebar: true
+published: true
 ---
+
+
+<!-- ************************
+     * ACHTUNG BITTE LESEN! *
+     ************************
+
+     Damit das mit den Zeilenumbrüchen hinhaut, müssen jeweils hinter der
+     ersten Zeile (also hinter dem Namen, bzw. hinter der geschlossenen Klammer
+     vom Link) noch zwei Leerzeichen stehen.  -->
+
+
 
 [Dr. Pablo Abend](http://www.mekuwi.phil-fak.uni-koeln.de/pablo_abend.html)  
 Universität zu Köln
 
-Dr. Michael Bauder  
+[Dr. Michael Bauder](https://www.geographie.uni-freiburg.de/ikg/mitarb/bauder_m)  
 Universität Freiburg
 
 Lea Bauer  
