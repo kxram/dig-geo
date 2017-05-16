@@ -31,6 +31,8 @@
 7. Dann prüft GitHub, ob die Versionen zusammengeführt werden können. Solange nicht in der Zwischenzeit die gleichen Zeilen bearbeitet wurden, sollte das gehen.
 8. Auf **Create pull request** klicken und dann nochmal bestätigen. Fertig!
 
+Wenn ihr in weiterer Folge Aktualisierungen von ktiu/dig-geo in euren Fork "nachziehen" wollt, könnt ihr den Pull-Request auch in die andere Richtung machen, d.h. »{eigener-benutzername}/dig-geo« als base fork und »ktiu/dig-geo« als head fork. ((Link)[compare/master...ktiu:master])
+
 
 # Zum Weiterlesen
 
