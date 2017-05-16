@@ -25,11 +25,13 @@
 3. Die Adresse für die Vorschau lautet: https://{eigener-benutzername}.github.io/dig-geo/
 	- Der Markdown-Editor [Prose][4] kann hierbei helfen.
 	- Die Profi-Variante ist dann, sich den [GitHub Desktop][5] (oder sogar nur Git) und [Jekyll][6] zu installieren, das Repository lokal zu ›klonen‹ und sich die Änderungen in Echtzeit auf localhost anzeigen zu lassen.
-4. Wenn die eigene Kopie soweit ist, dass die Änderungen in die Live-Seite einfließen sollen, muss noch ein ›pull request‹ erstellt werden. Hierzu auf **New pull request** klicken
+4. Wenn die eigene Kopie soweit ist, dass die Änderungen in die Live-Seite einfließen sollen, muss noch ein ›pull request‹ erstellt werden. Hierzu auf **New pull request** klicken (oder diesem [Link](../../compare/ktiu:master...master) folgen)
 5. Dann als **base fork** auswählen: »ktiu/dig-geo«
-6. Als **head fork**: »{eigener-benutzername}/dig-geo«
+6. Als **head fork**: »{eigener-benutzername}/dig-geo« 
 7. Dann prüft GitHub, ob die Versionen zusammengeführt werden können. Solange nicht in der Zwischenzeit die gleichen Zeilen bearbeitet wurden, sollte das gehen.
 8. Auf **Create pull request** klicken und dann nochmal bestätigen. Fertig!
+
+Wenn ihr in weiterer Folge Aktualisierungen von ktiu/dig-geo in euren Fork "nachziehen" wollt, könnt ihr den Pull-Request auch in die andere Richtung machen, d.h. »{eigener-benutzername}/dig-geo« als base fork und »ktiu/dig-geo« als head fork. ([Link](../../compare/master...ktiu:master))
 
 
 # Zum Weiterlesen
