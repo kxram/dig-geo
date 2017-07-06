@@ -93,6 +93,9 @@ Institut für Geographie, Universität Passau
 Prof. Dr. Christoph Schlieder  
 Institut für Kulturinformatik, Universität Bamberg
 
+[PD Dr. Philipp Späth](https://www.envgov.uni-freiburg.de/de/prof-sugov/Team-SuGov/philipp-spaeth%20)  
+Institut für Umweltsozialwissenschaften und Geographie, Universität Freiburg
+
 Martin Stephan  
 Institut für Geographie, Universität Bayreuth
 
