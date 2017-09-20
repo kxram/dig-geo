@@ -45,8 +45,8 @@ Institut für Geographie, Universität Erlangen-Nürnberg
 Christian Eichenmüller  
 Institut für Geographie, Universität Erlangen-Nürnberg
 
-Dr. Tim Elrick  
-Institut für Geographie, Universität Erlangen-Nürnberg
+[Dr. Tim Elrick](http://gic.geog.mcgill.ca)
+Geographic Information Centre (GIC), McGill University, Montreal, Canada
 
 Dr. Thilo Felgenhauer  
 Institut für Geographie, Universität Jena
