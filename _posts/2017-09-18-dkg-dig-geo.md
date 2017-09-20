@@ -3,8 +3,7 @@ category: news
 title: Digitale Geographien auf dem Deutschen Kongress für Geographie (DKG)
 ---
 
-Neben unserem Netzwerktreffen gibt es einige weitere interessante Veranstaltungen zum Thema Digitale Geographien
-im Rahmen des Deutschen Kongresses für Geographie (DKG) in Tübingen.
+Neben unserem Netzwerktreffen gibt es einige weitere interessante Veranstaltungen zum Thema Digitale Geographien im Rahmen des Deutschen Kongresses für Geographie (DKG) in Tübingen.
 
 Aus dem Kontext des Netzwerks heraus wurden folgende Veranstaltungen organisiert:
 
@@ -17,8 +16,7 @@ mit Beiträgen von Christian Bittner, Rafael Hologa, Matthias Plennert und Peter
 mit Inga Gryl, Pablo Abend, Paul Reuber, Christoph Schlieder, Harald Sterly und Julia Verne – Moderation 
 Georg Glasze & Marc Boeckler
 
-Kollegen aus den Geistes- und Kulturwissenschafte diskutieren am Montag, den 3. Oktober ab 15.30 über das Verhältnis 
-von Digital Humanities und Geographie.
+Kolleg\*innen aus den Geistes- und Kulturwissenschafte diskutieren am Montag, den 3. Oktober ab 15.30 über das Verhältnis von Digital Humanities und Geographie.
 
 Darüber hinaus greifen noch sieben weitere Veranstaltungen das Schlagwort der Digitalisierung auf:
 
