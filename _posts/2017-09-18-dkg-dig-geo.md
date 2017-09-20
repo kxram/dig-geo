@@ -10,7 +10,7 @@ Aus dem Kontext des Netzwerks heraus wurden folgende Veranstaltungen organisiert
 
 * Sonntag, 2. Oktober / 8.30 – 10.00  
 **Panel „Digitale Geographien erforschen“**  
-mit Beiträgen von Christian Bittner, Rafael Hologa, Matthias Plennert und Peter Mandl – Moderation Tim Elrick und Michael Bauder)
+mit Beiträgen von Christian Bittner, Rafael Hologa, Matthias Plennert und Peter Mandl – Moderation Tim Elrick und Michael Bauder
 
 * Sonntag, 2. Oktober / 13.45 – 15.15  
 **Podiumsdiskussion „Digitale Geographien – Konzeption und Problematisierung einer neuen Teildisziplin“**  
