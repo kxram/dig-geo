@@ -10,6 +10,12 @@ show_in_sidebar: true
 
 [Boeckler, Marc. 2014. Digitale Goegraphien: Neogeographie, Ortsmedien und der Ort der Geographie im digitalen Zeitalter. In: *Geographische Rundschau 17*(6). 4–10.](http://www.geographischerundschau.de/heft/51140600/Ausgabe-Juni-Heft-6-2014-Digitale-Geographie)
 
+
+Füller, Henning. 2018. Biosecuring Public Health. The example of
+ESSENCE. In *Big Data, Surveillance and Crisis Management*, Hrsg. Kees
+Boersma, und Chiara Fonio, 81–97. Routledge.
+
+
 [Straube, Till. 2016. Stacked Spaces: Mapping Digital Infrastructures. In: *Big Data & Society 3*(2). 1–12.](http://bds.sagepub.com/content/3/2/2053951716642456)
 
 ## Sonstige
