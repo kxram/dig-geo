@@ -51,7 +51,7 @@ Geographic Information Centre (GIC), McGill University, Montreal, Canada
 Dr. Thilo Felgenhauer  
 Institut für Geographie, Universität Jena
 
-[Dr. Henning Füller](https://www.geographie.hu-berlin.de/de/Members/fueller_henning)
+[Dr. Henning Füller](https://www.geographie.hu-berlin.de/de/Members/fueller_henning)  
 Geographisches Institut, Humboldt-Universität zu Berlin
 
 Jan Gemeinholzer  
