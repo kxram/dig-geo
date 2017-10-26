@@ -36,7 +36,7 @@ Institut für Humangeographie, Universität Frankfurt am Main
 Konstantin Böhm  
 Ancud IT, Nürnberg
 
-[Dr. rer. nat. Tabea Borg-Hüffer](https://www.uibk.ac.at/geographie/personal/bork-hueffer/)  
+[Dr. rer. nat. Tabea Bork-Hüffer](https://www.uibk.ac.at/geographie/personal/bork-hueffer/)  
 Institut für Geographie, Universität Innsbruck
 
 Julian Bothe  
