@@ -14,11 +14,9 @@ show_in_sidebar: true
 
 [Bork-Hüffer, Tabea. 2016. Mediated Sense of Place. Effects of Mediation and Mobility on the Place Perception of German professionals in Singapore. In: *New Media & Society 18*(10). 2155-2170.](http://journals.sagepub.com/doi/abs/10.1177/1461444816655611)
 
-Lim, S. S., Bork-Hüffer, T. & Yeoh, B. (2016). Editorial: Mobility, migration and new media: Manoeuvring through physical, digital and liminal spaces. New Media & Society 18 (10), pp. 2147-2154. http://journals.sagepub.com/doi/abs/10.1177/1461444816655610?rss=1
+[Lim, Sun Sun, Tabea Bork-Hüffer und Brenda SA Yeoh. 2016. Editorial. Mobility, Migration and New Media. Manoeuvring through Physical, Digital and Liminal Spaces. In: *New Media & Society 18*(10). 2147-2154.](http://journals.sagepub.com/doi/abs/10.1177/1461444816655610?rss=1)
 
-Bork-Hüffer, T. (2017): "Beyond Smart City": Singapurs "Smart Nation" Strategie und der ewige Wettbewerb um Modelfunktion. In: Geographische Rundschau 2017, 7-8 (2017), pp. 36-40.
-
- 
+Bork-Hüffer, Tabea. 2017. „Beyond Smart City“. Singapurs „Smart Nation“ Strategie und der ewige Wettbewerb um Modelfunktion. In: *Geographische Rundschau 20*(7-8). 36-40.
 
 [Füller, Henning. 2018. Biosecuring Public Health. The example of ESSENCE. In *Big Data, Surveillance and Crisis Management*, Hrsg. Kees Boersma, und Chiara Fonio, 81–97. Routledge.](https://www.routledge.com/Big-Data-Surveillance-and-Crisis-Management/Boersma-Fonio/p/book/9781138195431)
 
