@@ -8,13 +8,13 @@ show_in_sidebar: true
 
 ## Aus dem Netzwerk
 
-[Boeckler, Marc. 2014. Digitale Goegraphien: Neogeographie, Ortsmedien und der Ort der Geographie im digitalen Zeitalter. In: *Geographische Rundschau 17*(6). 4–10.](http://www.geographischerundschau.de/heft/51140600/Ausgabe-Juni-Heft-6-2014-Digitale-Geographie)
+[Boeckler, Marc. 2014. Digitale Goegraphien. Neogeographie, Ortsmedien und der Ort der Geographie im digitalen Zeitalter. In: *Geographische Rundschau 17*(6). 4–10.](http://www.geographischerundschau.de/heft/51140600/Ausgabe-Juni-Heft-6-2014-Digitale-Geographie)
 
+[Bork-Hüffer, Tabea und Brenda SA Yeoh. 2017. The geographies of difference in conflating digital and offline spaces of encounter. Migrant professionals' throwntogetherness in Singapore. In: *Geoforum 86*. 93–102.](https://authors.elsevier.com/a/1VlOO3pILIFJ0)
 
 [Füller, Henning. 2018. Biosecuring Public Health. The example of
 ESSENCE. In *Big Data, Surveillance and Crisis Management*, Hrsg. Kees
 Boersma, und Chiara Fonio, 81–97. Routledge.](https://www.routledge.com/Big-Data-Surveillance-and-Crisis-Management/Boersma-Fonio/p/book/9781138195431)
-
 
 [Straube, Till. 2016. Stacked Spaces: Mapping Digital Infrastructures. In: *Big Data & Society 3*(2). 1–12.](http://bds.sagepub.com/content/3/2/2053951716642456)
 
