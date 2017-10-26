@@ -10,11 +10,17 @@ show_in_sidebar: true
 
 [Boeckler, Marc. 2014. Digitale Goegraphien. Neogeographie, Ortsmedien und der Ort der Geographie im digitalen Zeitalter. In: *Geographische Rundschau 17*(6). 4–10.](http://www.geographischerundschau.de/heft/51140600/Ausgabe-Juni-Heft-6-2014-Digitale-Geographie)
 
-[Bork-Hüffer, Tabea und Brenda SA Yeoh. 2017. The geographies of difference in conflating digital and offline spaces of encounter. Migrant professionals' throwntogetherness in Singapore. In: *Geoforum 86*. 93–102.](https://authors.elsevier.com/a/1VlOO3pILIFJ0)
+[Bork-Hüffer, Tabea und Brenda SA Yeoh. 2017. The Geographies of Difference in Conflating Digital and Offline Spaces of Encounter. Migrant Professionals' Throwntogetherness in Singapore. In: *Geoforum 86*. 93–102.](https://authors.elsevier.com/a/1VlOO3pILIFJ0)
 
-[Füller, Henning. 2018. Biosecuring Public Health. The example of
-ESSENCE. In *Big Data, Surveillance and Crisis Management*, Hrsg. Kees
-Boersma, und Chiara Fonio, 81–97. Routledge.](https://www.routledge.com/Big-Data-Surveillance-and-Crisis-Management/Boersma-Fonio/p/book/9781138195431)
+[Bork-Hüffer, Tabea. 2016. Mediated Sense of Place. Effects of Mediation and Mobility on the Place Perception of German professionals in Singapore. In: *New Media & Society 18*(10). 2155-2170.](http://journals.sagepub.com/doi/abs/10.1177/1461444816655611)
+
+Lim, S. S., Bork-Hüffer, T. & Yeoh, B. (2016). Editorial: Mobility, migration and new media: Manoeuvring through physical, digital and liminal spaces. New Media & Society 18 (10), pp. 2147-2154. http://journals.sagepub.com/doi/abs/10.1177/1461444816655610?rss=1
+
+Bork-Hüffer, T. (2017): "Beyond Smart City": Singapurs "Smart Nation" Strategie und der ewige Wettbewerb um Modelfunktion. In: Geographische Rundschau 2017, 7-8 (2017), pp. 36-40.
+
+ 
+
+[Füller, Henning. 2018. Biosecuring Public Health. The example of ESSENCE. In *Big Data, Surveillance and Crisis Management*, Hrsg. Kees Boersma, und Chiara Fonio, 81–97. Routledge.](https://www.routledge.com/Big-Data-Surveillance-and-Crisis-Management/Boersma-Fonio/p/book/9781138195431)
 
 [Straube, Till. 2016. Stacked Spaces: Mapping Digital Infrastructures. In: *Big Data & Society 3*(2). 1–12.](http://bds.sagepub.com/content/3/2/2053951716642456)
 
