@@ -24,17 +24,14 @@ Universität zu Köln
 [Dr. Michael Bauder](https://www.geographie.uni-freiburg.de/ikg/mitarb/bauder_m)  
 Universität Freiburg
 
-Lea Bauer  
+[Lea Bauer](https://www.ifl-leipzig.de/de/das-ifl/mitarbeiter/bauer-lea.html)  
 Institut für Länderkunde Leipzig
 
-Christian Bittner  
+[Dr. Christian Bittner](http://www.geographie.nat.uni-erlangen.de/personen/cbittner/)  
 Institut für Geographie, Universität Erlangen-Nürnberg
 
 [Prof. Dr. Marc Boeckler](https://www.uni-frankfurt.de/45478395/01_portrait)  
 Institut für Humangeographie, Universität Frankfurt am Main
-
-Konstantin Böhm  
-Ancud IT, Nürnberg
 
 [Dr. rer. nat. Tabea Bork-Hüffer](https://www.uibk.ac.at/geographie/personal/bork-hueffer/)  
 Institut für Geographie, Universität Innsbruck
@@ -42,32 +39,29 @@ Institut für Geographie, Universität Innsbruck
 Julian Bothe  
 Hamburg
 
-Finn Dammann  
+[Finn Dammann](http://www.geographie.nat.uni-erlangen.de/personen/finn-dammann/)  
 Institut für Geographie, Universität Erlangen-Nürnberg
 
-Christian Eichenmüller  
+[Christian Eichenmüller](http://www.geographie.nat.uni-erlangen.de/personen/christian-eichenmueller/)  
 Institut für Geographie, Universität Erlangen-Nürnberg
 
 [Dr. Tim Elrick](http://gic.geog.mcgill.ca)  
 Geographic Information Centre (GIC), McGill University, Montreal, Canada
 
-Dr. Thilo Felgenhauer  
+[Dr. Thilo Felgenhauer](http://www.geographie.uni-jena.de/Tilo_Felgenhauer.html)  
 Institut für Geographie, Universität Jena
 
 [Dr. Henning Füller](https://www.geographie.hu-berlin.de/de/Members/fueller_henning)  
 Geographisches Institut, Humboldt-Universität zu Berlin
 
-Jan Gemeinholzer  
+[Jan Gemeinholzer](https://www.researchgate.net/profile/Jan_Gemeinholzer)  
 Institut für Geographie, Universität Erlangen-Nürnberg
 
-Prof. Dr. Georg Glasze  
+[Prof. Dr. Georg Glasze](http://www.geographie.nat.uni-erlangen.de/personen/georg-glasze/)  
 Institut für Geographie, Universität Erlangen-Nürnberg
 
-Prof. Dr. Francis Harvey  
+[Prof. Dr. Francis Harvey](https://www.ifl-leipzig.de/de/das-ifl/mitarbeiter/harvey-francis.html)  
 Institut für Länderkunde Leipzig
-
-Philipp Hochreuther  
-Institut für Geographie, Universität Erlangen-Nürnberg
 
 Tom Hoyer  
 Institut für Länderkunde Leipzig
@@ -81,19 +75,19 @@ Bamberg
 [Florian Ledermann](http://cartography.tuwien.ac.at/florian-ledermann/)  
 Forschungsbereich Kartographie, Technische Universität Wien
 
-Dr. Peter Mandl  
+[Dr. Peter Mandl](http://wwwu.uni-klu.ac.at/pmandl/)  
 Institut für Geographie, Universität Klagenfurt
 
 Dr. Jana Moser  
 Institut für Länderkunde Leipzig
 
-Matthias Plennert  
+[Matthias Plennert](http://www.geographie.nat.uni-erlangen.de/personen/matthias-plennert/)  
 Institut für Geographie, Universität Erlangen-Nürnberg
 
-Dr. Jörg Scheffer  
+[Dr. Jörg Scheffer](http://www.phil.uni-passau.de/fachbereich-geographie/team/dr-joerg-scheffer/)  
 Institut für Geographie, Universität Passau
 
-Prof. Dr. Christoph Schlieder  
+[Prof. Dr. Christoph Schlieder](https://www.uni-bamberg.de/kinf/mitarbeiter/schlieder-christoph/)  
 Institut für Kulturinformatik, Universität Bamberg
 
 [PD Dr. Philipp Späth](https://www.envgov.uni-freiburg.de/de/prof-sugov/Team-SuGov/philipp-spaeth%20)  
@@ -102,11 +96,11 @@ Institut für Umweltsozialwissenschaften und Geographie, Universität Freiburg
 Martin Stephan  
 Institut für Geographie, Universität Bayreuth
 
-Dr. Harald Sterly  
+[Dr. Harald Sterly](http://www.geographie.uni-koeln.de/14236.html)  
 Institut für Geographie, Universität zu Köln
 
 [Till Straube](https://www.uni-frankfurt.de/50025353/01_portrait_de)  
 Institut für Humangeographie, Universität Frankfurt am Main
 
-Prof. Dr. Julia Verne  
+[Prof. Dr. Julia Verne](https://www.geographie.uni-bonn.de/das-institut/personal/wissenschaftliches-personal/verne-julia)  
 Institut für Geographie, Universität Bonn
