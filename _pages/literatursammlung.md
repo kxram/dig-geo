@@ -7,6 +7,17 @@ show_in_sidebar: true
 ---
 
 ## Aus dem Netzwerk
+[Bittner, Christian. 2014. Reproduktion sozialräumlicher Differenzierungen in OpenStreetMap: das Beispiel Jerusalems. Kartographische Nachrichten, 64(3), 136–144.](http://www.geographie.nat.uni-erlangen.de/wp-content/uploads/Bittner-2014-Reproduktion-sozialr%C3%A4umlicher-Differenzierungen-in-OpenStreetMap.pdf)
+
+[Bittner, Christian. 2017. Diversity in volunteered geographic information: Comparing OpenStreetMap and Wikimapia in Jerusalem. GeoJournal, 82(5), 887–906.](https://link.springer.com/article/10.1007/s10708-016-9721-3)
+
+[Bittner, Christian. 2017. OpenStreetMap in Israel and Palestine – ‘Game changer’ or reproducer of contested cartographies? Political Geography, 57, 34–48.](http://www.sciencedirect.com/science/article/pii/S096262981630035X)
+
+[Bittner, Christian, Glasze, Georg, & Turk, Cate (2013). Tracing contingencies: analyzing the political in assemblages of web 2.0 cartographies. GeoJournal, 78(6), 935–948.](http://www.geographie.nat.uni-erlangen.de/wp-content/uploads/Bittner-Glasze-et-al.-2013-Tracing-contingencies.pdf)
+
+[Bittner, Christian, & Michel, Boris (2013). Das Dekonstruieren der web2.0 Karte. Vorschläge zur Analyse dynamischer und interaktiver Karten multipler und diffuser Autorenschaften. In I. Gryl, T. Nehrdich, & R. Vogler (Eds.), Geo@web. Medium, Räumlichkeit und geographische Bildung (pp. 111–126).](http://www.geographie.nat.uni-erlangen.de/wp-content/uploads/Bittner-Michel-2013-Das-Dekonstruieren-der-web2.0-Karte.pdf)
+
+[Bittner, Christian, Michel, Boris, & Turk, Cate (2016). Turning the spotlight on the crowd: examining the participatory ethics and practices of crisis mapping. ACME: An International E-Journal for Critical Geographies, 15(1), 207–229.](http://ojs.unbc.ca/index.php/acme/article/view/1238/1165)
 
 [Boeckler, Marc. 2014. Digitale Goegraphien. Neogeographie, Ortsmedien und der Ort der Geographie im digitalen Zeitalter. In: *Geographische Rundschau 17*(6). 4–10.](http://www.geographischerundschau.de/heft/51140600/Ausgabe-Juni-Heft-6-2014-Digitale-Geographie)
 
