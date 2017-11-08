@@ -63,10 +63,10 @@ Institut für Geographie, Universität Erlangen-Nürnberg
 [Prof. Dr. Francis Harvey](https://www.ifl-leipzig.de/de/das-ifl/mitarbeiter/harvey-francis.html)  
 Institut für Länderkunde Leipzig
 
-Tom Hoyer  
+[Tom Hoyer](https://www.ifl-leipzig.de/de/das-ifl/mitarbeiter/hoyer-tom.html)  
 Institut für Länderkunde Leipzig
 
-Andreas Keler  
+[Andreas Keler](http://gig.geo.uni-augsburg.de/index.php/team/andreas-keler/)  
 Institut für Geographie, Universität Augsburg
 
 Dr. Dominik Kremer  
