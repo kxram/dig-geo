@@ -66,8 +66,8 @@ Institut für Länderkunde Leipzig
 [Tom Hoyer](https://www.ifl-leipzig.de/de/das-ifl/mitarbeiter/hoyer-tom.html)  
 Institut für Länderkunde Leipzig
 
-[Andreas Keler](http://gig.geo.uni-augsburg.de/index.php/team/andreas-keler/)  
-Institut für Geographie, Universität Augsburg
+[Andreas Keler](https://www.vt.bgu.tum.de/mitarbeiter/mitarbeiter/keler-dr-rer-nat-andreas/)  
+Lehrstuhl für Verkehrstechnik, Ingenieurfakultät Bau Geo Umwelt, Technische Universität München
 
 Dr. Dominik Kremer  
 Bamberg
