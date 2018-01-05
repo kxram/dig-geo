@@ -20,6 +20,9 @@ Boersma, und Chiara Fonio, 81–97. Routledge.](https://www.routledge.com/Big-Da
 
 ## Sonstige
 
+[Röhle, Theo. 2017. „Data should be cooked with care“ – Digitale Kartographie zwischen Akkumulation und Aggregation. Bedeutende Daten, 71–90.](https://doi.org/10.1007/978-3-658-11781-8_5)
+
+
 [Amoore, Louise. 2016. Cloud Geographies: Computing, Data, Sovereignty. In: *Progress in Human Geography*. Advance online publication. 1–21.](http://phg.sagepub.com/content/early/2016/08/10/0309132516662147.abstract)
 
 [Ash, James, Rob Kitchin und Agnieszka Leszczynski. 2016. Digital Turn, Digital Geographies? In: *Progress in Human Geography*. Advance online publication. 1–19.](http://phg.sagepub.com/content/early/2016/08/23/0309132516664800.abstract)
