@@ -18,7 +18,7 @@ Neben allgemeinen Austausch und Präsentation von Projekten (Bitte Vorschläge m
 
 Zum einen sind Daten an sich „politisch bedeutend”. Daten liegen nicht einfach vor, sie werden in festgelegten Verfahren und Formaten registriert und klassifiziert und somit sozial hergestellt. Solche strukturierenden Ordnungsschema treten bei digitaler Kartograhpie in besonderer Weise hervor (Röhle 2017) - **Block I**. 
 
-Zum anderen werden digitale Geodaten zunehemnd wichtiger als Grundlage politischer Steuerung. In Zukunftsszenarien städtischer Steuerung hat die Verfügbarmachung von Echtzeit-Daten (_Open Data_) häufig einen zentralen Stellenwert. Ein Gast erläutert Perspektiven und Hürden der Open Data Strategie des Berliner Senats (angefragt) - **Block II**
+Zum anderen werden digitale Geodaten zunehemnd wichtiger als Grundlage politischer Steuerung. In Zukunftsszenarien städtischer Steuerung hat die Verfügbarmachung von Echtzeit-Daten (_Open Data_) häufig einen zentralen Stellenwert. Ein Gast erläutert Perspektiven und Hürden der Open Data Strategie des Berliner Senats - **Block II**
 
 Daneben ist das Treffen wie gewohnt einen Ort zur Diskussion aktueller Projekte und Forschung im Kontext (gerne Beitragsangebote vorher kurz kommunizieren - per Mail an [henning.fueller@geo.hu-berlin.de](mailto:henning.fueller@geo.hu-berlin.de)) - **Block III**
 
@@ -53,7 +53,8 @@ Röhle, Theo. 2017. „Data should be cooked with care“ – Digitale Kartograp
 
     - Block II - **Open Data und Stadtentwicklung**
 
-        - Input Sven Askar (Senatsverwaltung Berlin, Projekt Zukunft) /angefr./
+        - Input Sven Askar (Senatsverwaltung Berlin, Projekt Zukunft)
+            "Herausforderungen und Potential von Open Data"
 
 - 13:00 Uhr
 
