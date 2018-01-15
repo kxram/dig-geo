@@ -36,6 +36,12 @@ Daneben ist das Treffen wie gewohnt einen Ort zur Diskussion aktueller Projekte 
 
 ### Freitag, 20.04.2018 - Netzwerktreffen
 
+Georg-Simmel-Zentrum für Metropolenforschung
+
+[Mohrenstraße 41, 10117 Berlin](https://goo.gl/maps/KQqze2MATgq), 
+Raum 418a
+(4. Stock)
+
 - 9:00 Uhr
 
     - Begrüßung und Kaffee
