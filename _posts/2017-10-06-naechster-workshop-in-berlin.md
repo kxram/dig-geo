@@ -56,7 +56,7 @@ Röhle, Theo. 2017. „Data should be cooked with care“ – Digitale Kartograp
 
 ### 13:00 Uhr Block III — Präsentationen aus dem Netzwerk
 - Francis Harvey / Eric Losang: Workshopvorhaben Verbesserte Geovisualisierung
-- Finn Dammmann - Geodaten und Softwaredesign am Beispiel OSM
+- Finn Dammmann: Geodaten und Softwaredesign am Beispiel OSM
 - Fakultativ:
     - Florian Ledermann 
     - Tabea Bork-Hüffer
@@ -66,7 +66,6 @@ Röhle, Theo. 2017. „Data should be cooked with care“ – Digitale Kartograp
 - [Bistro Vital - Russisches Restaurant in Berlin](http://bistro-vital.business.site)
 
 ### 15:00 Uhr — Block IV - **Quo vadis**
-
 - Bericht DFG - Antrag (Christian Bittner)
 - Zukünftige Aktivitäten
 - Verabredung nächstes Treffen, Termin, Ort
