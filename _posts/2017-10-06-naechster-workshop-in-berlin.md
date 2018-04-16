@@ -60,6 +60,7 @@ Röhle, Theo. 2017. „Data should be cooked with care“ – Digitale Kartograp
 - Fakultativ:
     - Florian Ledermann 
     - Tabea Bork-Hüffer
+    - Christian Bittner
 
 ### 14:00 Uhr Mittagessen 
 - [Bistro Vital - Russisches Restaurant in Berlin](http://bistro-vital.business.site)
