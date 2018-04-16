@@ -42,53 +42,35 @@ Georg-Simmel-Zentrum für Metropolenforschung
 Raum 418a
 (4. Stock)
 
-- 9:00 Uhr
+### 9:00 Uhr — Beginn
+- Begrüßung und Kaffee
 
-    - Begrüßung und Kaffee
-
-- 9:30 Uhr
-
-    - Block I - **Zur Epistemologie von digitalen Geodaten**
-
-        - Textdiskussion: (Röhle 2017, S.)
+### 9:30 Uhr Block I — Zur Epistemologie von digitalen Geodaten
+- Textdiskussion:
 Röhle, Theo. 2017. „Data should be cooked with care“ – Digitale Kartographie zwischen Akkumulation und Aggregation. Bedeutende Daten, 71–90.
 [0.1007/978-3-658-11781-8_5](https://doi.org/10.1007/978-3-658-11781-8_5).
 
-
-- 11:00 Uhr
-
-    - Block II - **Open Data und Stadtentwicklung**
-
-        - Input Sven Askar (Senatsverwaltung Berlin, Projekt Zukunft)
+### 11:00 Uhr Block II — Open Data und Stadtentwicklung
+- Input Sebastian Askar (Senatsverwaltung Berlin, Projekt Zukunft)
             "Herausforderungen und Potential von Open Data"
 
-- 13:00 Uhr
+### 13:00 Uhr Block III — Präsentationen aus dem Netzwerk
+- Francis Harvey / Eric Losang: Workshopvorhaben Verbesserte Geovisualisierung
+- Finn Dammmann - Geodaten und Softwaredesign am Beispiel OSM
+- Fakultativ:
+    - Florian Ledermann 
+    - Tabea Bork-Hüffer
+    - Christian Bittner (DFG - Antrag aktueller Stand)
 
-    - Mittagessen
+### 14:00 Uhr Mittagessen 
+- [Bistro Vital - Russisches Restaurant in Berlin](http://bistro-vital.business.site)
 
-- 14:00 Uhr
+### 15:00 Uhr — Block IV - **Quo vadis**
 
-    - Block III - **Präsentationen aus dem Netzwerk**
+- Bericht DFG - Antrag (Christian Bittner)
+- Zukünftige Aktivitäten
+- Verabredung nächstes Treffen, Termin, Ort
 
-- 14:30 Uhr
-
-    - Kaffeepause
-
-- 15:00 Uhr
-
-    - Block IV - **Quo vadis**
-
-        - Antrag
-
-        - Zukünftige Aktivitäten
-
-        - Verabredung nächstes Treffen, Termin, Ort
-
-- 17:00 Uhr
-
-    - Ende
+### 17:00 Uhr — Ende
 
 
-## Anmeldung
-
-Teilnahmeinteressierte schicken bitte eine kurze Nachricht per Mail an [henning.fueller@geo.hu-berlin.de](mailto:henning.fueller@geo.hu-berlin.de). Das erleichtert die Koordination. 
