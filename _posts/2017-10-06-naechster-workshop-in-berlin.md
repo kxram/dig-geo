@@ -58,7 +58,6 @@ Röhle, Theo. 2017. „Data should be cooked with care“ – Digitale Kartograp
 - Francis Harvey / Eric Losang: Workshopvorhaben Verbesserte Geovisualisierung
 - Finn Dammmann: Geodaten und Softwaredesign am Beispiel OSM
 - Fakultativ:
-    - Florian Ledermann 
     - Tabea Bork-Hüffer
     - Christian Bittner
 
