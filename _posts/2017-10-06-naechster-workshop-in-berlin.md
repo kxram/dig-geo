@@ -4,19 +4,19 @@ title: Netzwerktreffen April 2018 in Berlin
 ---
 
 # Netzwerktreffen Digitale Geographie 2018  
-    
+
   „**Mit digitalen Geodaten steuern**?“  
 
 Ort: Georg-Simmel-Zentrum für Metropolenforschung
 
-[Mohrenstraße 41, 10117 Berlin](https://goo.gl/maps/KQqze2MATgq), 
+[Mohrenstraße 41, 10117 Berlin](https://goo.gl/maps/KQqze2MATgq),
 Raum 418a
 (4. Stock)
 
 
-Neben allgemeinen Austausch und Präsentation von Projekten (Bitte Vorschläge melden) ist ein inhaltlicher Schwerpunkt des Netzwerktreffens 2018 die politische Verwendung von digitalen Geodaten. _Wie steuern digitale Geodaten?
+Neben allgemeinen Austausch und Präsentation von Projekten (Bitte Vorschläge melden) ist ein inhaltlicher Schwerpunkt des Netzwerktreffens 2018 die politische Verwendung von digitalen Geodaten. _Wie steuern digitale Geodaten?_
 
-Zum einen sind Daten an sich „politisch bedeutend”. Daten liegen nicht einfach vor, sie werden in festgelegten Verfahren und Formaten registriert und klassifiziert und somit sozial hergestellt. Solche strukturierenden Ordnungsschema treten bei digitaler Kartograhpie in besonderer Weise hervor (Röhle 2017) - **Block I**. 
+Zum einen sind Daten an sich „politisch bedeutend”. Daten liegen nicht einfach vor, sie werden in festgelegten Verfahren und Formaten registriert und klassifiziert und somit sozial hergestellt. Solche strukturierenden Ordnungsschema treten bei digitaler Kartograhpie in besonderer Weise hervor (Röhle 2017) - **Block I**.
 
 Zum anderen werden digitale Geodaten zunehemnd wichtiger als Grundlage politischer Steuerung. In Zukunftsszenarien städtischer Steuerung hat die Verfügbarmachung von Echtzeit-Daten (_Open Data_) häufig einen zentralen Stellenwert. Ein Gast erläutert Perspektiven und Hürden der Open Data Strategie des Berliner Senats - **Block II**
 
@@ -38,7 +38,7 @@ Daneben ist das Treffen wie gewohnt einen Ort zur Diskussion aktueller Projekte 
 
 Georg-Simmel-Zentrum für Metropolenforschung
 
-[Mohrenstraße 41, 10117 Berlin](https://goo.gl/maps/KQqze2MATgq), 
+[Mohrenstraße 41, 10117 Berlin](https://goo.gl/maps/KQqze2MATgq),
 Raum 418a
 (4. Stock)
 
@@ -61,7 +61,7 @@ Röhle, Theo. 2017. „Data should be cooked with care“ – Digitale Kartograp
     - Tabea Bork-Hüffer
     - Christian Bittner
 
-### 14:00 Uhr Mittagessen 
+### 14:00 Uhr Mittagessen
 - [Bistro Vital - Russisches Restaurant in Berlin](http://bistro-vital.business.site)
 
 ### 15:00 Uhr — Block IV - **Quo vadis**
@@ -70,5 +70,3 @@ Röhle, Theo. 2017. „Data should be cooked with care“ – Digitale Kartograp
 - Verabredung nächstes Treffen, Termin, Ort
 
 ### 17:00 Uhr — Ende
-
-
