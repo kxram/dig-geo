@@ -27,7 +27,7 @@ Universität Freiburg
 [Lea Bauer](https://www.ifl-leipzig.de/de/das-ifl/mitarbeiter/bauer-lea.html)  
 Institut für Länderkunde Leipzig
 
-[Dr. Christian Bittner](http://www.geographie.nat.uni-erlangen.de/personen/cbittner/)  
+[Dr. Christian Bittner](https://www.geographie.nat.fau.de/person/christian-bittner/)  
 Institut für Geographie, Universität Erlangen-Nürnberg
 
 [Prof. Dr. Marc Boeckler](https://www.uni-frankfurt.de/45478395/01_portrait)  
