@@ -99,7 +99,7 @@ Institut für Geographie, Universität Bayreuth
 [Dr. Harald Sterly](http://www.geographie.uni-koeln.de/14236.html)  
 Institut für Geographie, Universität zu Köln
 
-[Till Straube](https://www.uni-frankfurt.de/50025353/01_portrait_de)  
+[Till Straube](http://user.uni-frankfurt.de/~tstraube)  
 Institut für Humangeographie, Universität Frankfurt am Main
 
 [Prof. Dr. Julia Verne](https://www.geographie.uni-bonn.de/das-institut/personal/wissenschaftliches-personal/verne-julia)  
