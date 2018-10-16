@@ -30,6 +30,8 @@ ansehen können.
 Weitere Beiträge von ForscherInnen aus dem Netzwerk und seinem Umfeld, die zwischen oder abseits dieser Pole an Fragestellungen zu
 digitalen Geographien arbeiten, komplettieren das Programm des Treffens.
 
+Anmeldungen zur Teilnahme sind in beschränktem Umfang noch möglich per Mail an [florian.ledermann@tuwien.ac.at](mailto:florian.ledermann@tuwien.ac.at)
+
 ----
 
 ## **Programm** Netzwerktreffen Digitale Geographie, 8.-9. November 2018, Wien  
@@ -53,7 +55,7 @@ und "[Learning QGIS](https://www.packtpub.com/big-data-and-business-intelligence
 
 - Finger Food, Getränke
 
-#### 13:00 Uhr — Externe Beiträge
+#### 13:00 Uhr — Externe Beiträge zur Praxis und Ausblick der digitalen Kartographie
 
 - Begüßung und Einleitung
 - Wien gibt Raum – Vom Konzept einer innovativen Verwaltung des öffentlichen Raums zum Mobile Mapping einer Großstadt (Lothar Eysn, Stadt Wien)
@@ -112,4 +114,3 @@ und "[Learning QGIS](https://www.packtpub.com/big-data-and-business-intelligence
 
 ----
 
-Anmeldungen zur Teilnahme sind in beschränktem Umfang noch möglich per Mail an [florian.ledermann@tuwien.ac.at](mailto:florian.ledermann@tuwien.ac.at)
