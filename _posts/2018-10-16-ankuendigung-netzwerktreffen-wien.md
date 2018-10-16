@@ -18,9 +18,8 @@ Schwerpunkt, passend zum Austragungsort, unter anderem der digitalen Kartographi
 
 Ein Teil der Beiträge soll dabei bewusst auch praktische Fragen der Umsetzung von digitaler Kartographie in
 unterschiedlichen Kontexten, sowie die sich daraus ergebenden Möglichkeiten, Einschränkungen und "Affordances", beleuchten.
-Wie prägt die konkrete Ausgestalung aktueller GIS-Systeme, Datenplattformen und mobilen Plattformen unsere Abbildung und Vermittlung
-räumlicher Sachverhalte? Welche Einschränkungen, Schwierigkeiten und Auslassungen sind in diese Prozesse möglicherweise mit eingeschrieben,
-werden aber in techno-optimistischen Fortschrittsdiskursen ausgeblendet?
+Wie prägt die konkrete Ausgestalung aktueller GIS-Systeme, Datenplattformen und mobiler Devices unsere Abbildung und Vermittlung
+räumlicher Sachverhalte? Welche Einschränkungen, Schwierigkeiten und Auslassungen sind in diese Prozesse möglicherweise mit eingeschrieben, werden aber in techno-optimistischen Fortschrittsdiskursen ausgeblendet?
 
 In einem zweiten Schwerpunkt wollen wir uns genau solchen technologiegetriebenen Zukunfstvorstellungen widmen.
 "Big Data" und "Augmented Realities" versprechen eine weitreichende Verwebung von kartographischer Erfassung und
@@ -47,7 +46,7 @@ TU Wien, Seminarraum der Forschungsgruppe Kartographie, [Erzherzog-Johann-Platz 
 - Workshop mit [Anita Graser](https://anitagraser.com/about/), Autorin von "[QGIS Map Design](http://locatepress.com/qmd2)"
 und "[Learning QGIS](https://www.packtpub.com/big-data-and-business-intelligence/learning-qgis-third-edition)"
 - Der Workshop soll einen Einblick in aktuelle Möglichkeiten der Geovisualisierung, die sich mit Version 3 der Open Source GIS-Software "QGIS" eröffnen, geben.
-- Der Workshop ist dem Netzwerktreffen vorgelagert und optional - bitte Teilnahmewunsch separat beaknntgeben!
+- Der Workshop ist dem Netzwerktreffen vorgelagert und optional - bitte Teilnahmewunsch separat bekanntgeben!
 
 ----
 
@@ -66,7 +65,7 @@ und "[Learning QGIS](https://www.packtpub.com/big-data-and-business-intelligence
 #### 15:45 Uhr — Aktuelle Forschung aus dem Netzwerk und seinem Umfeld I
 
 - Geo-Info zwischen Herrschafts- und Befreiungswissen (Michael Lehner, Helena Atteneder)
-- Demokratisierung von Technologie am Beispiel von OSM (Matthias Plennert)
+- Demokratisierung von Technologie am Beispiel von OpenStreetMap (Matthias Plennert)
 
 #### 16:30 Uhr — DFG Forschungsnetzwerk "Digitale Geographien" - Kick-Off und Ausblick
 
