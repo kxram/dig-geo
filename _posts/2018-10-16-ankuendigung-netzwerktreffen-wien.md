@@ -37,7 +37,7 @@ Anmeldungen zur Teilnahme sind in beschränktem Umfang noch möglich per Mail an
 
 ### Donnerstag 8.11.2018
 
-TU Wien, Seminarraum der Forschungsgruppe Kartographie, [Erzherzog-Johann-Platz 1, 1040 Wien](https://goo.gl/maps/QFYGgZqa6uB2), 1. Stock
+Ort: TU Wien, Seminarraum der Forschungsgruppe Kartographie, [Erzherzog-Johann-Platz 1, 1040 Wien](https://goo.gl/maps/QFYGgZqa6uB2), 1. Stock
 
 ----
 
