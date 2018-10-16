@@ -20,6 +20,7 @@
 ...(z.B. Designänderungen) ist es besser, zuerst an einer eigenen Kopie des gesamten Projekts Änderungen vorzunehmen und sich anzeigen zu lassen. Das geht so:
 
 1. Im Repository [ktiu/dig-geo][3] auf "Fork" klicken. Das kopiert das komplette Projekt in den eigenen Account. (Das passiert übrigens auch bei der schnellen Methode automatisch im Hintergrund.)
+1. Die Datei "CNAME" im eingenen Repository löschen (sonst kommt GitHub bei der Vorschau durcheinander).
 1. Im *eigenen* Repository (also https://github.com/{eigener-benutzername}/dig-geo) auf "Settings" klicken
 2. Im Menüpunkt **GitHub Pages** die Option **Source** auf »master« setzen. Damit werden die Änderungen, die im eigenen Repository vorgenommen werden, live (mit einer kleinen Verzögerung) angezeigt.
 3. Die Adresse für die Vorschau lautet: https://{eigener-benutzername}.github.io/dig-geo/
