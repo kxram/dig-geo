@@ -18,7 +18,7 @@ Schwerpunkt, passend zum Austragungsort, unter anderem der digitalen Kartographi
 
 Ein Teil der Beiträge soll dabei bewusst auch praktische Fragen der Umsetzung von digitaler Kartographie in
 unterschiedlichen Kontexten, sowie die sich daraus ergebenden Möglichkeiten, Einschränkungen und "Affordances", beleuchten.
-Wie prägt die konkrete Ausgestalung aktueller GIS-Systeme, Datenplattformen und mobiler Devices unsere Abbildung und Vermittlung
+Wie prägt die konkrete Ausgestaltung aktueller GIS-Systeme, Datenplattformen und mobiler Devices unsere Abbildung und Vermittlung
 räumlicher Sachverhalte? Welche Einschränkungen, Schwierigkeiten und Auslassungen sind in diese Prozesse möglicherweise mit eingeschrieben, werden aber in techno-optimistischen Fortschrittsdiskursen ausgeblendet?
 
 In einem zweiten Schwerpunkt wollen wir uns genau solchen technologiegetriebenen Zukunfstvorstellungen widmen.
@@ -54,18 +54,18 @@ und "[Learning QGIS](https://www.packtpub.com/big-data-and-business-intelligence
 
 - Finger Food, Getränke
 
-#### 13:00 Uhr — Externe Beiträge zur Praxis und Ausblick der digitalen Kartographie
+#### 13:00 Uhr — Externe Beiträge zu Praxis und Zukunft der digitalen Kartographie
 
 - Begüßung und Einleitung
-- Wien gibt Raum – Vom Konzept einer innovativen Verwaltung des öffentlichen Raums zum Mobile Mapping einer Großstadt (Lothar Eysn, Stadt Wien)
-- Herausforderungen der Digitalisierung in der alpinen Kartographie (Werner Beer, Österreichischer Alpenverein)
-- Umsetzung der ersten voll digitalen Netzkarte bei den Österreichischen Bundesbahnen (Manuela Schmidt)
+- **Wien gibt Raum – Vom Konzept einer innovativen Verwaltung des öffentlichen Raums zum Mobile Mapping einer Großstadt** (Lothar Eysn, Stadt Wien)
+- **Herausforderungen der Digitalisierung in der alpinen Kartographie** (Werner Beer, Österreichischer Alpenverein)
+- **Umsetzung der ersten voll digitalen Netzkarte bei den Österreichischen Bundesbahnen** (Manuela Schmidt, Kartographin)
 - Kaffeepause
 
 #### 15:45 Uhr — Aktuelle Forschung aus dem Netzwerk und seinem Umfeld I
 
-- Geo-Info zwischen Herrschafts- und Befreiungswissen (Michael Lehner, Helena Atteneder)
-- Demokratisierung von Technologie am Beispiel von OpenStreetMap (Matthias Plennert)
+- **Geo-Info zwischen Herrschafts- und Befreiungswissen** (Michael Lehner, Helena Atteneder)
+- **Demokratisierung von Technologie am Beispiel von OpenStreetMap** (Matthias Plennert)
 
 #### 16:30 Uhr — DFG Forschungsnetzwerk "Digitale Geographien" - Kick-Off und Ausblick
 
@@ -98,9 +98,9 @@ und "[Learning QGIS](https://www.packtpub.com/big-data-and-business-intelligence
 
 #### 13:30 Uhr — Aktuelle Forschung aus dem Netzwerk und seinem Umfeld II
 
-- Aspekte politischer Formierung in kollaborativen Praktiken digitaler Kartenerstellung (Lea Bauer)
-- Reverse Engineering von digitalen Karten (Florian Ledermann)
-- Evaluationspraktiken von Predictive Policing (Till Straube)
+- **Aspekte politischer Formierung in kollaborativen Praktiken digitaler Kartenerstellung** (Lea Bauer)
+- **Reverse Engineering von digitalen Karten** (Florian Ledermann)
+- **Evaluationspraktiken von Predictive Policing** (Till Straube)
 
 #### 14:30 Uhr — Planung der weiteren Aktivitäten des Netzwerks
 
