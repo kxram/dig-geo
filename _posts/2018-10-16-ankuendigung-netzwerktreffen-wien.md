@@ -3,7 +3,7 @@ category: news
 title: Netzwerktreffen November 2018 in Wien
 ---
 
-# Netzwerktreffen Digitale Geographie, 8.-9. November 2018, Wien  
+# **Netzwerktreffen Digitale Geographien**, 8.-9. November 2018, Wien  
 
 „**Praxis und Ausblick der digitalen Kartographie**“  
 
@@ -13,7 +13,7 @@ Ort: TU Wien, Forschungsgruppe Kartographie
 
 Unser nächstes Netzwerktreffen – das erste seit dem Anlaufen der
 [DFG-Netzwerkförderung](http://digitale-geographien.de/news/dfg-foerderung-und-ankuendigung)! – wird wie
-gewohnt externe Beiträge und Berichte aus dem Netzwerk zusammenbringen, und sich als losem inhaltlichen
+gewohnt externe Beiträge mit Berichten aus dem Netzwerk und seinem Umfeld zusammenbringen, und sich als losem inhaltlichen
 Schwerpunkt, passend zum Austragungsort, unter anderem der digitalen Kartographie und Geovisualisierung widmen.
 
 Ein Teil der Beiträge soll dabei bewusst auch praktische Fragen der Umsetzung von digitaler Kartographie in
@@ -27,8 +27,8 @@ In einem zweiten Schwerpunkt wollen wir uns genau solchen technologiegetriebenen
 Visualisierung mit der realen Welt. In zwei Exkursionen werden wir uns mögliche technische Bausteine dieser Entwicklungen
 ansehen können. 
 
-Weitere Beiträge von ForscherInnen aus dem Netzwerk und seinem Umfeld, die zwischen oder neben diesen Polen an Fragestellungen
-digitaler Geographien arbeiten, komplettieren das Programm des Treffens.
+Weitere Beiträge von ForscherInnen aus dem Netzwerk und seinem Umfeld, die zwischen oder abseits dieser Pole an Fragestellungen zu
+digitalen Geographien arbeiten, komplettieren das Programm des Treffens.
 
 ----
 
@@ -38,11 +38,16 @@ digitaler Geographien arbeiten, komplettieren das Programm des Treffens.
 
 TU Wien, Seminarraum der Forschungsgruppe Kartographie, [Erzherzog-Johann-Platz 1, 1040 Wien](https://goo.gl/maps/QFYGgZqa6uB2), 1. Stock
 
+----
+
 #### 9:00-11:00 — Hands-On Workshop "Visualisierung von Geodaten mit QGIS 3" (Teilnahme optional)
 
 - Workshop mit [Anita Graser](https://anitagraser.com/about/), Autorin von "[QGIS Map Design](http://locatepress.com/qmd2)"
 und "[Learning QGIS](https://www.packtpub.com/big-data-and-business-intelligence/learning-qgis-third-edition)"
+- Der Workshop soll einen Einblick in aktuelle Möglichkeiten der Geovisualisierung, die sich mit Version 3 der Open Source GIS-Software "QGIS" eröffnen, geben.
 - Der Workshop ist dem Netzwerktreffen vorgelagert und optional - bitte Teilnahmewunsch separat beaknntgeben!
+
+----
 
 #### 12:00-13:00 — Eintreffen der TeilnehmerInnen
 
