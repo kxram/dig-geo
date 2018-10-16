@@ -5,7 +5,7 @@ title: Netzwerktreffen November 2018 in Wien
 
 # **Netzwerktreffen Digitale Geographien**, 8.-9. November 2018, Wien  
 
-„**Praxis und Zukunftsvorstellungen der digitalen Kartographie**“  
+„**Praxis und Zukunftsmöglichkeiten der digitalen Kartographie**“  
 
 Ort: TU Wien, Forschungsgruppe Kartographie
 
