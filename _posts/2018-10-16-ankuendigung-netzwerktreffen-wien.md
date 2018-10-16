@@ -75,24 +75,25 @@ und "[Learning QGIS](https://www.packtpub.com/big-data-and-business-intelligence
 
 #### (17:00-19:00 Pause)
 
-#### 19:00 Gemeinsames Abendessen
+#### 19:00 Uhr — Gemeinsames Abendessen
+
 - Ort TBA
 
 ----
 
 ### Freitag 9.11.2018
 
-#### 9:00 Uhr Exkursion: Speicherung und Prozessierung von geographischen Big Data
+#### 9:00 Uhr — Exkursion: Speicherung und Prozessierung von geographischen Big Data
 
 - im Earth Observation Data Center der TU Wien, Teil des Vienna Scientific Supercomputer Clusters 
 - Ort: [EODC, Franz-Grill-Straße 9, 1030 Wien](https://goo.gl/maps/JVVtGB9YTTA2) "Arsenal"
 
-#### 11:30 Uhr Hands-On / Exkursion: Visualisierung und Manipulation von Geodaten mittels Virtual und Augmented Realities 
+#### 11:30 Uhr — Exkursion & Hands-On: Visualisierung und Manipulation von Geodaten mittels Virtual und Augmented Realities 
 
 - am Fachbereich Geoinformation der TU Wien
 - Ort: [Gußhausstraße 25-27, 1040 Wien](https://goo.gl/maps/XWj6Yo56Pn92), 3. Stock 
 
-#### 12:30 Uhr Gemeinsames Mittagessen
+#### 12:30 Uhr — Gemeinsames Mittagessen
 
 - Catering in der FG Kartographie
 
