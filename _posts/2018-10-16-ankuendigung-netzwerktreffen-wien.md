@@ -77,7 +77,7 @@ und "[Learning QGIS](https://www.packtpub.com/big-data-and-business-intelligence
 
 #### 19:00 Uhr — Gemeinsames Abendessen
 
-- Ort TBA
+- Im „Aromat“, [Margaretenstraße 52, 1040 Wien](https://goo.gl/maps/E6ezeooWyhv)
 
 ----
 
@@ -86,16 +86,18 @@ und "[Learning QGIS](https://www.packtpub.com/big-data-and-business-intelligence
 #### 9:00 Uhr — Exkursion: Speicherung und Prozessierung von geographischen Big Data
 
 - im Earth Observation Data Center der TU Wien, Teil des Vienna Scientific Supercomputer Clusters 
-- Ort: [EODC, Franz-Grill-Straße 9, 1030 Wien](https://goo.gl/maps/JVVtGB9YTTA2) "Arsenal"
+- Ort: [EODC, Franz-Grill-Straße 9, 1030 Wien](https://goo.gl/maps/JVVtGB9YTTA2) „Arsenal“
+- Anfahrt vom Hauptbahnhof mit [Bus 69A bis Station „Lilienthalgasse“](https://anachb.vor.at/webapp/?L=vs_anachb&storageRecon=4ed3a03d-29f4-4ed5-a6f5-51c281d65bba)
 
 #### 11:30 Uhr — Exkursion & Hands-On: Visualisierung und Manipulation von Geodaten mittels Virtual und Augmented Realities 
 
 - am Fachbereich Geoinformation der TU Wien
-- Ort: [Gußhausstraße 25-27, 1040 Wien](https://goo.gl/maps/XWj6Yo56Pn92), 3. Stock 
+- Ort: [Gußhausstraße 25-27, 1040 Wien](https://goo.gl/maps/XWj6Yo56Pn92), 3. Stock
+- Anfahrt vom EODC: [Bus 69A bis Hauptbahnhof, U1 bis Taubstummengasse](https://anachb.vor.at/webapp/?L=vs_anachb&storageRecon=15290bed-ccf0-4335-983e-e034a577dc65)
 
 #### 12:30 Uhr — Gemeinsames Mittagessen
 
-- Catering in der FG Kartographie
+- in der FG Kartographie, bestellt von [„Fein Essen“](http://www.feinessen.at/)
 
 #### 13:30 Uhr — Aktuelle Forschung aus dem Netzwerk und seinem Umfeld II
 
