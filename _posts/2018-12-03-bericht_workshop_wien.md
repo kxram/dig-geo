@@ -6,7 +6,7 @@ zeit: 8.-9. November 2018
 ort: Forschungsgruppe Kartographie, TU Wien, Österreich
 ---
 
-Anfang November trafen sich die TeilnehmerInnen des Forschungsnetzwerks sowie Interessierte in Wien zum ersten Workshop seit dem Anlaufen der [DFG-Netzwerkförderung](http://digitale-geographien.de/news/dfg-foerderung-und-ankuendigung). Die dadurch geschaffene Möglichkeit, Reise- und Unterbringungskosten zu erstatten, erlaubte es uns, ein zweitägiges, dichtes Programm unter Einbeziehung externer ExpertInnen zu erstellen.
+Anfang November trafen sich die TeilnehmerInnen des Forschungsnetzwerks "Digitale Geographien" sowie Interessierte – insgesamt 23 TeilnehmerInnen – in Wien zum ersten Workshop seit dem Anlaufen der [DFG-Netzwerkförderung](http://digitale-geographien.de/news/dfg-foerderung-und-ankuendigung). Die dadurch geschaffene Möglichkeit, Reise- und Unterbringungskosten zu erstatten, erlaubte es uns, ein [zweitägiges, dichtes Programm](/news/ankuendigung-netzwerktreffen-wien) unter Einbeziehung externer ExpertInnen zu erstellen.
 
 Dem bewährten Format einer Mischung von praktischen Inputs, Exkursionen und theoretischen Fachbeiträgen folgend, konnten die TeilnehmerInnen am Vormittag des ersten Tages, unter der Anleitung von Anita Graser, Autorin des Buches "[QGIS Map Design](https://locatepress.com/qmd2)", ganz praktisch die aktuellen Möglichkeiten zur Erstellung von digitalen Karten in QGIS ausloten. Der erste Block am Nachmittag war dann Beiträgen
 von externen Institutionen gewidmet, von der Stadtvermessung der Stadt Wien über den Österreichischen Alpenverein bis zu den Österreichischen Bundesbahnen, die jeweils verschiedene Aspekte der Digitalisierung von Kartographie und Geovisualisierung ausloteten.
@@ -19,6 +19,6 @@ Am Vormittag des zweiten Tages hatten die TeilnehmerInnen die Möglichkeit am Ea
 
 Weiters konnte an diesem Vormittag an der Forschungsgruppe Geoinformation die Benutzung von Augmented-Reality Visualisierungssystemen ausprobiert werden.
 
-Der Nachmittag des zweiten Tages widmete sich dann wieder theoretischen Beiträgen aus dem Netzwerk. In diesem inhaltlichen Block berichteten die im Rahmen des Netzwerks an ihren Promotionsprojekten arbeitenden von den Fortschritten in ihrer Forschung.
+Der Nachmittag des zweiten Tages widmete sich dann wieder theoretischen Beiträgen aus dem Netzwerk. In diesem inhaltlichen Block berichteten die im Rahmen des Netzwerks an ihren Promotionsprojekten arbeitenden von den Fortschritten bei ihren Forschungsvorhaben.
 
 In einer abschließenden Sitzung wurden unter anderem die Planung der nächsten Netzwerktreffen sowie mögliche thematische und formale Ausrichtungen der geplanten Abschlusspublikation besprochen.
