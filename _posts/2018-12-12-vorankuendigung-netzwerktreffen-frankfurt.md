@@ -3,7 +3,7 @@ category: news
 title: Vorankündigung Netzwerktreffen Mai 2019 in Frankfurt
 ---
 
-# **Vorankündigung Netzwerktreffen Digitale Geographien**, 16.-17. Mai 2019, Frankfurt am Main  
+# **Vorankündigung Netzwerktreffen Digitale Geographien**, 23.-24. Mai 2019, Frankfurt am Main  
 
 
 Ort: Goethe Universität Frankfurt, Institut für Humangeographie
@@ -13,7 +13,7 @@ Ort: Goethe Universität Frankfurt, Institut für Humangeographie
 
 
 Das nächste Treffen des Forschungsnetzwerks "Digitale Geographien" steht an: diesmal findet es 
-von 16. bis 17. Mai 2019 in Frankfurt am Main statt. In Tradition der bisherigen Netzwerktreffen wird es wieder
+von 23. bis 24. Mai 2019 in Frankfurt am Main statt. In Tradition der bisherigen Netzwerktreffen wird es wieder
 eine Mischung aus Exkursion, externe Vortragende und Präsentationen zur Forschungs aus dem Netzwerk geben.
 
 Aktuell läuft die Planung des Netzwerkstreffens durch das Frankfurter Orga Team. Bei Interesse oder für die
