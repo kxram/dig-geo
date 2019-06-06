@@ -1,7 +1,7 @@
 ---
 layout: event 
 category: workshops
-title: Netzwerktreffen Digitale Geographien
+title: 2. Netzwerktreffen Mai 2019, Frankfurt
 zeit: 23.-24. Mai 2019
 ort: Institut für Humangeographie, Goethe-Universität Frankfurt am Main
 ---
