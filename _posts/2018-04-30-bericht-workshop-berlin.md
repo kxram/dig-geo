@@ -1,7 +1,7 @@
 ---
 title: 'Netzwerktreffen Frühjahr 2018, Berlin'
 category: workshops
-zeit:19.–20. April 2018
+zeit: 19.–20. April 2018
 ort: Georg-Simmel-Zentrum für Metropolenforschung, Humboldt-Universität zu Berlin
 layout: event
 ---
