@@ -6,24 +6,13 @@ ort: Georg-Simmel-Zentrum für Metropolenforschung, Humboldt-Universität zu Ber
 layout: event
 ---
 
-# Netzwerktreffen Digitale Geographie 2018  
-
-  „**Mit digitalen Geodaten steuern**?“  
-
-Ort: Georg-Simmel-Zentrum für Metropolenforschung
-
-[Mohrenstraße 41, 10117 Berlin](https://goo.gl/maps/KQqze2MATgq),
-Raum 418a
-(4. Stock)
-
-
-Neben allgemeinen Austausch und Präsentation von Projekten war ein inhaltlicher Schwerpunkt des Netzwerktreffens 2018 die politische Verwendung von digitalen Geodaten. _Wie steuern digitale Geodaten?_
+Neben allgemeinem Austausch und der Präsentation von Projekten war ein inhaltlicher Schwerpunkt des Netzwerktreffens 2018 die politische Verwendung von digitalen Geodaten. _Wie steuern digitale Geodaten?_
 
 Zum einen sind Daten an sich „politisch bedeutend”. Daten liegen nicht einfach vor, sie werden in festgelegten Verfahren und Formaten registriert und klassifiziert und somit sozial hergestellt. Solche strukturierenden Ordnungsschema treten bei digitaler Kartograhpie in besonderer Weise hervor (Röhle 2017) - **Block I**.
 
-Zum anderen werden digitale Geodaten zunehemnd wichtiger als Grundlage politischer Steuerung. In Zukunftsszenarien städtischer Steuerung hat die Verfügbarmachung von Echtzeit-Daten (_Open Data_) häufig einen zentralen Stellenwert. Ein Gast erläutert Perspektiven und Hürden der Open Data Strategie des Berliner Senats - **Block II**
+Zum anderen werden digitale Geodaten zunehmend wichtiger als Grundlage politischer Steuerung. In Zukunftsszenarien städtischer Steuerung hat die Verfügbarmachung von Echtzeit-Daten (_Open Data_) häufig einen zentralen Stellenwert. Als Gast erläuterte Sebastian Askar Perspektiven und Hürden der Open Data Strategie des Berliner Senats - **Block II**
 
-Daneben diente das Treffen wie gewohnt einen Ort zur Diskussion aktueller Projekte und Forschung im Kontext (gerne Beitragsangebote vorher kurz kommunizieren - per Mail an [henning.fueller@geo.hu-berlin.de](mailto:henning.fueller@geo.hu-berlin.de)) - **Block III**
+Daneben diente das Treffen wie gewohnt einen Ort zur Diskussion aktueller Projekte und Forschung im Kontext - **Block III**
 
 
 
@@ -75,4 +64,4 @@ Röhle, Theo. 2017. „Data should be cooked with care“ – Digitale Kartograp
 ### 17:00 Uhr — Ende
 
 
-{% include image.html filename = '2018-gruppe-berlin.jpg' description='TeilnehmerInnen des Netzwerktreffen (Foto: anonym)' %}
+{% include image.html filename = '2018-gruppe-berlin.jpg' description='Teilnehmer:innen des Netzwerktreffensd im April 2018 in Berlin (Foto: anonym)' %}
