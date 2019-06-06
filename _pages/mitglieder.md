@@ -36,7 +36,7 @@ Institut für Humangeographie, Universität Frankfurt am Main
 [Dr. rer. nat. Tabea Bork-Hüffer](https://www.uibk.ac.at/geographie/personal/bork-hueffer/)  
 Institut für Geographie, Universität Innsbruck  
 
-[Julian Bothe](http://www.geographie.uni-muenchen.de/department/fiona/personen/index.php?personen_details=1&user_id=326)
+[Julian Bothe](http://www.geographie.uni-muenchen.de/department/fiona/personen/index.php?personen_details=1&user_id=326)  
 Institut für Geographie, München  
 
 [Dr. Annika Busch-Geertsema](http://www.uni-frankfurt.de/45862962/Kurzportrait)  
@@ -75,7 +75,7 @@ Lehrstuhl für Verkehrstechnik, Ingenieurfakultät Bau Geo Umwelt, Technische Un
 Dr. Dominik Kremer  
 Bamberg
 
-[Florian Ledermann]
+Florian Ledermann   
 Wien
 
 [Dr. Peter Mandl](http://wwwu.uni-klu.ac.at/pmandl/)  
@@ -95,9 +95,6 @@ Institut für Kulturinformatik, Universität Bamberg
 
 [PD Dr. Philipp Späth](https://www.envgov.uni-freiburg.de/de/prof-sugov/Team-SuGov/philipp-spaeth%20)  
 Institut für Umweltsozialwissenschaften und Geographie, Universität Freiburg
-
-Martin Stephan  
-Institut für Geographie, Universität Bayreuth
 
 [Dr. Harald Sterly](http://www.geographie.uni-koeln.de/14236.html)  
 Institut für Geographie, Universität zu Köln
