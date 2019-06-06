@@ -18,7 +18,3 @@ eine Mischung aus Exkursion, externe Vortragende und Präsentationen zur Forschu
 
 Aktuell läuft die Planung des Netzwerkstreffens durch das Frankfurter Orga Team. Bei Interesse oder für die
 Anmeldung zur Teilnahme einfach per Mail  unter [platzer@geo.uni-frankfurt.de](mailto:platzer@geo.uni-frankfurt.de) melden.
-
-
-
-----

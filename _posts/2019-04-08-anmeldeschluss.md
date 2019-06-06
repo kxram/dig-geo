@@ -15,7 +15,3 @@ Das nächste Treffen des Forschungsnetzwerks "Digitale Geographien" findet von 2
 Eine Anmeldung ist leider nicht mehr möglich. In kürze folgt eine Post mit weiteren Informationen zum Programm.
 
 Bei Fragen zum Netzwerktreffen bitte einfach per Mail  unter [platzer@geo.uni-frankfurt.de](mailto:platzer@geo.uni-frankfurt.de) melden.
-
-
-
-----
