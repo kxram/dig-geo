@@ -39,6 +39,9 @@ Institut für Geographie, Universität Innsbruck
 Julian Bothe  
 Hamburg
 
+[Dr. Annika Busch-Geertsema](http://www.uni-frankfurt.de/45862962/Kurzportrait)  
+Institut für Humangeographie, Universität Frankfurt am Main
+
 [Finn Dammann](http://www.geographie.nat.uni-erlangen.de/personen/finn-dammann/)  
 Institut für Geographie, Universität Erlangen-Nürnberg
 
