@@ -37,7 +37,7 @@ Institut für Humangeographie, Universität Frankfurt am Main
 Institut für Geographie, Universität Innsbruck  
 
 [Julian Bothe](http://www.geographie.uni-muenchen.de/department/fiona/personen/index.php?personen_details=1&user_id=326)  
-Institut für Geographie, München  
+Institut für Geographie, Ludwigs-Maximilian-Universität München  
 
 [Dr. Annika Busch-Geertsema](http://www.uni-frankfurt.de/45862962/Kurzportrait)  
 Institut für Humangeographie, Universität Frankfurt am Main
