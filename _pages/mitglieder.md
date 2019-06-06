@@ -18,8 +18,8 @@ published: true
 
 
 
-[Dr. Pablo Abend](http://www.mekuwi.phil-fak.uni-koeln.de/pablo_abend.html)  
-Universität zu Köln
+[Dr. Pablo Abend](http://www.locatingmedia.uni-siegen.de/pablo-abend/)    
+Universität Siegen
 
 [Dr. Michael Bauder](https://www.geographie.uni-freiburg.de/ikg/mitarb/bauder_m)  
 Universität Freiburg
@@ -27,23 +27,23 @@ Universität Freiburg
 [Lea Bauer](https://www.ifl-leipzig.de/de/das-ifl/mitarbeiter/bauer-lea.html)  
 Institut für Länderkunde Leipzig
 
-[Dr. Christian Bittner](https://www.geographie.nat.fau.de/person/christian-bittner/)  
-Institut für Geographie, Universität Erlangen-Nürnberg
+[Dr. Christian Bittner](https://www.ulb.uni-bonn.de/de/die-ulb/organisation-ansprechpartner/ansprechpartner-von-a-z/bittner)  
+Referent Forschungsdaten, Universität Bonn
 
 [Prof. Dr. Marc Boeckler](https://www.uni-frankfurt.de/45478395/01_portrait)  
 Institut für Humangeographie, Universität Frankfurt am Main
 
 [Dr. rer. nat. Tabea Bork-Hüffer](https://www.uibk.ac.at/geographie/personal/bork-hueffer/)  
-Institut für Geographie, Universität Innsbruck
+Institut für Geographie, Universität Innsbruck  
 
-Julian Bothe  
-Hamburg
+[Julian Bothe](http://www.geographie.uni-muenchen.de/department/fiona/personen/index.php?personen_details=1&user_id=326)
+Institut für Geographie, München  
 
 [Dr. Annika Busch-Geertsema](http://www.uni-frankfurt.de/45862962/Kurzportrait)  
 Institut für Humangeographie, Universität Frankfurt am Main
 
 [Finn Dammann](http://www.geographie.nat.uni-erlangen.de/personen/finn-dammann/)  
-Institut für Geographie, Universität Erlangen-Nürnberg
+Institut für Geographie, Universität Erlangen-Nürnberg  
 
 [Christian Eichenmüller](http://www.geographie.nat.uni-erlangen.de/personen/christian-eichenmueller/)  
 Institut für Geographie, Universität Erlangen-Nürnberg
@@ -51,8 +51,8 @@ Institut für Geographie, Universität Erlangen-Nürnberg
 [Dr. Tim Elrick](http://gic.geog.mcgill.ca)  
 Geographic Information Centre (GIC), McGill University, Montreal, Canada
 
-[Dr. Thilo Felgenhauer](http://www.geographie.uni-jena.de/Tilo_Felgenhauer.html)  
-Institut für Geographie, Universität Jena
+[Dr. Thilo Felgenhauer](http://pro.ph-ooe.at/tilo-felgenhauer.html)  
+Pädagogische Hochschule Öberösterreich, Linz
 
 [Dr. Henning Füller](https://www.geographie.hu-berlin.de/de/Members/fueller_henning)  
 Geographisches Institut, Humboldt-Universität zu Berlin
@@ -75,8 +75,8 @@ Lehrstuhl für Verkehrstechnik, Ingenieurfakultät Bau Geo Umwelt, Technische Un
 Dr. Dominik Kremer  
 Bamberg
 
-[Florian Ledermann](http://cartography.tuwien.ac.at/florian-ledermann/)  
-Forschungsbereich Kartographie, Technische Universität Wien
+[Florian Ledermann]
+Wien
 
 [Dr. Peter Mandl](http://wwwu.uni-klu.ac.at/pmandl/)  
 Institut für Geographie, Universität Klagenfurt
