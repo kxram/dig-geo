@@ -1,6 +1,6 @@
 ---
 category: news
-title: Ankündigung Netzwerktreffen Kiel
+title: Netzwerktreffen Kiel
 
 ---
 
