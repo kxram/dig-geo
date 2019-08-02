@@ -8,8 +8,7 @@ description: Ein deutschsprachiges Forschungsnetzwerk zu Geodaten, Code und Gese
 navbar-links:
   Netzwerk: "netzwerk"
   Mitglieder: "mitglieder"
-  Literatur: "literatursammlung"
-  Kontakt: "kontakt"
+  Publikationen: "publikationen"
 
 avatar: "/bilder/logo_big.png"
 
