@@ -1,9 +1,9 @@
 ---
-layout: event 
-category: workshops
-title: Workshop „Infrastrukturen digitaler Geographie“
+title: Bericht vom Workshop „Infrastrukturen digitaler Geographie“
 zeit: 6.–8. Oktober 2016
 ort: Institut für Humangeographie, Goethe-Universität Frankfurt am Main
+image: /bilder/denic.jpg
+tags: Frankfurt Berichte Workshops
 ---
 
 Digitale Technologien schreiben sich zunehmend in unseren Alltag ein. Diese Entwicklung wird vielerorts sichtbar, wenn etwa innovative Apps Anwendung finden, sich Kommunikationspraktiken verändern, oder an Bildschirmen neue Repräsentationen unserer Umwelt entstehen. In der Geographie kommen mit Geoinfomationsystemen und geographischer Datenanalyse nicht nur neue Methoden zum Einsatz, sondern es eröffnet sich auch ein breites Feld an sozialwissenschaftlichen Fragenstellugen, die sich mit den Rationalitäten und Wirkungsweisen digitaler Technolgien beschäftigen.

@@ -1,18 +1,7 @@
 ---
-category: news
-title: Netzwerktreffen April 2018 in Berlin
+title: Programm Netzwerktreffen April 2018 in Berlin
+tags: Workshops Programme Berlin
 ---
-
-# Netzwerktreffen Digitale Geographie 2018  
-
-  „**Mit digitalen Geodaten steuern**?“  
-
-Ort: Georg-Simmel-Zentrum für Metropolenforschung
-
-[Mohrenstraße 41, 10117 Berlin](https://goo.gl/maps/KQqze2MATgq),
-Raum 418a
-(4. Stock)
-
 
 Neben allgemeinen Austausch und Präsentation von Projekten (Bitte Vorschläge melden) ist ein inhaltlicher Schwerpunkt des Netzwerktreffens 2018 die politische Verwendung von digitalen Geodaten. _Wie steuern digitale Geodaten?_
 
@@ -22,9 +11,14 @@ Zum anderen werden digitale Geodaten zunehemnd wichtiger als Grundlage politisch
 
 Daneben ist das Treffen wie gewohnt einen Ort zur Diskussion aktueller Projekte und Forschung im Kontext (gerne Beitragsangebote vorher kurz kommunizieren - per Mail an [henning.fueller@geo.hu-berlin.de](mailto:henning.fueller@geo.hu-berlin.de)) - **Block III**
 
-
-
 ## Programm
+
+
+Ort: Georg-Simmel-Zentrum für Metropolenforschung
+
+[Mohrenstraße 41, 10117 Berlin](https://goo.gl/maps/KQqze2MATgq),
+Raum 418a
+(4. Stock)
 
 **Donnerstag 19.04.2018** - Workshop im Kontext
 

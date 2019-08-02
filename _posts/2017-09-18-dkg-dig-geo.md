@@ -1,6 +1,6 @@
 ---
-category: news
 title: Digitale Geographien auf dem Deutschen Kongress für Geographie (DKG)
+tags: DGK News Tübingen
 ---
 
 Neben unserem Netzwerktreffen gibt es einige weitere interessante Veranstaltungen zum Thema Digitale Geographien im Rahmen des Deutschen Kongresses für Geographie (DKG) in Tübingen.

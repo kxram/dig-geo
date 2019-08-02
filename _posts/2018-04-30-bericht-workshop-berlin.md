@@ -1,9 +1,9 @@
 ---
-title: 'Vernetzungstreffen Frühjahr 2018, Berlin'
-category: workshops
+title: Bericht vom Netzwerktreffen in Berlin
 zeit: 19.–20. April 2018
 ort: Georg-Simmel-Zentrum für Metropolenforschung, Humboldt-Universität zu Berlin
-layout: event
+tags: Workshops Berlin Berichte
+image: /bilder/2018-gruppe-berlin.jpg
 ---
 
 Neben allgemeinem Austausch und der Präsentation von Projekten war ein inhaltlicher Schwerpunkt des Netzwerktreffens 2018 die politische Verwendung von digitalen Geodaten. _Wie steuern digitale Geodaten?_
@@ -64,4 +64,4 @@ Röhle, Theo. 2017. „Data should be cooked with care“ – Digitale Kartograp
 ### 17:00 Uhr — Ende
 
 
-{% include image.html filename = '2018-gruppe-berlin.jpg' description='Teilnehmer:innen des Netzwerktreffensd im April 2018 in Berlin (Foto: anonym)' %}
+{% include image.html filename = '2018-gruppe-berlin.jpg' description='Teilnehmer*innen des Netzwerktreffensd im April 2018 in Berlin (Foto: anonym)' %}

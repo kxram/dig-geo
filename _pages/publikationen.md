@@ -1,12 +1,10 @@
 ---
-title: Literatursammlung
-permalink: literatursammlung
+title: Publikationen aus dem Netzwerk 
+permalink: publikationen
 order: 2
 layout: page
-show_in_sidebar: true
 ---
 
-## Aus dem Netzwerk
 [Bittner, Christian. 2014. Reproduktion sozialräumlicher Differenzierungen in OpenStreetMap: das Beispiel Jerusalems. Kartographische Nachrichten, 64(3), 136–144.](http://www.geographie.nat.uni-erlangen.de/wp-content/uploads/Bittner-2014-Reproduktion-sozialr%C3%A4umlicher-Differenzierungen-in-OpenStreetMap.pdf)
 
 [Bittner, Christian. 2017. Diversity in volunteered geographic information: Comparing OpenStreetMap and Wikimapia in Jerusalem. GeoJournal, 82(5), 887–906.](https://link.springer.com/article/10.1007/s10708-016-9721-3)
@@ -25,19 +23,18 @@ show_in_sidebar: true
 
 [Bork-Hüffer, Tabea. 2016. Mediated Sense of Place. Effects of Mediation and Mobility on the Place Perception of German professionals in Singapore. In: *New Media & Society 18*(10). 2155-2170.](http://journals.sagepub.com/doi/abs/10.1177/1461444816655611)
 
-[Lim, Sun Sun, Tabea Bork-Hüffer und Brenda SA Yeoh. 2016. Editorial. Mobility, Migration and New Media. Manoeuvring through Physical, Digital and Liminal Spaces. In: *New Media & Society 18*(10). 2147-2154.](http://journals.sagepub.com/doi/abs/10.1177/1461444816655610?rss=1)
-
 Bork-Hüffer, Tabea. 2017. „Beyond Smart City“. Singapurs „Smart Nation“ Strategie und der ewige Wettbewerb um Modelfunktion. In: *Geographische Rundschau 20*(7-8). 36-40.
 
 [Füller, Henning. 2018. Biosecuring Public Health. The example of ESSENCE. In *Big Data, Surveillance and Crisis Management*, Hrsg. Kees Boersma, und Chiara Fonio, 81–97. Routledge.](https://www.routledge.com/Big-Data-Surveillance-and-Crisis-Management/Boersma-Fonio/p/book/9781138195431)
 
-[Straube, Till. 2016. Stacked Spaces: Mapping Digital Infrastructures. In: *Big Data & Society 3*(2). 1–12.](http://bds.sagepub.com/content/3/2/2053951716642456)
+[Kemper, Jan und Till Straube. 2018. Algorithmen und Big Data. Perspektiven einer kritischen Forschung. In: Anne Vogelpohl, Boris Michel, Henrik Lebuhn, Johanna Hoerning und Bernd Belina (Hg.), *Raumproduktionen II. Theoretische Kontroversen und politische Auseinandersetzungen.* Münster: Westfälisches Dampfboot. 136--157.](https://www.dampfboot-verlag.de/shop/artikel/raumproduktionen-ii_1)
 
-## Sonstige
+[Lim, Sun Sun, Tabea Bork-Hüffer und Brenda SA Yeoh. 2016. Editorial. Mobility, Migration and New Media. Manoeuvring through Physical, Digital and Liminal Spaces. In: *New Media & Society 18*(10). 2147-2154.](http://journals.sagepub.com/doi/abs/10.1177/1461444816655610?rss=1)
 
-[Röhle, Theo. 2017. „Data should be cooked with care“ – Digitale Kartographie zwischen Akkumulation und Aggregation. Bedeutende Daten, 71–90.](https://doi.org/10.1007/978-3-658-11781-8_5)
+[Straube, Till. 2016. Stacked Spaces: Mapping Digital Infrastructures. In: *Big Data & Society 3*(2). 1–-12.](http://bds.sagepub.com/content/3/2/2053951716642456)
 
+[Straube, Till und Bernd Belina. 2018. Policing the Smart City. Eine Taxonomie polizeilicher Prognoseprogramme. In: Sybille Bauriedl und Anke Strüver (Hg.), *Smart City. Kritische Perspektiven auf die Digitalisierung in Städten.* Bielefeld: Transkript. 223--236.](https://www.transcript-verlag.de/978-3-8376-4336-7/smart-city-kritische-perspektiven-auf-die-digitalisierung-in-staedten/)
 
-[Amoore, Louise. 2016. Cloud Geographies: Computing, Data, Sovereignty. In: *Progress in Human Geography*. Advance online publication. 1–21.](http://phg.sagepub.com/content/early/2016/08/10/0309132516662147.abstract)
+[Straube, Till. 2018. Situating Digital Infrastructures. In: Rob Kitchin, Tracey P. Lauriault und Gavin McArdle (Hg). *Data and the City.* London: Routledge. 156-–170.](https://www.routledge.com/Data-and-the-City/Kitchin-Lauriault-McArdle/p/book/9781138222632)
 
-[Ash, James, Rob Kitchin und Agnieszka Leszczynski. 2016. Digital Turn, Digital Geographies? In: *Progress in Human Geography*. Advance online publication. 1–19.](http://phg.sagepub.com/content/early/2016/08/23/0309132516664800.abstract)
+[Straube, Till. 2019. The Black Box and its Dis/contents. In: Marieke de Goede, Esmé Bosma und Polly Pallister-Wilkins (Hg.), *Secrecy and Methods in Security Research.* London: Routledge. 175--192.](https://www.taylorfrancis.com/books/9780429398186)

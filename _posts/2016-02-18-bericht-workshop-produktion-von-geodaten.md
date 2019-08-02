@@ -1,9 +1,9 @@
 ---
-layout: event 
-category: workshops
-title: Workshop „Produktion von Geodaten“
+title: Bericht vom Workshop „Produktion von Geodaten“
 zeit: 18.–20. Februar 2016
 ort: Institut für Geographie, Universität Erlangen
+image: /bilder/VGDH-Rundbrief_-Beitrag_Elrick_Bild.jpg
+tags: Workshops Berichte Erlangen
 ---
 
  Digitale Geoinformationen durchdringen unseren Alltag auf vielfältige Weise, sei es in Form von räumlich differenzierten Marketingstrategien, als Teil digitaler Infrastrukturen oder durch staatliche Überwachungspraktiken. Zudem sind längst die Allermeisten von uns zu kontinuierlichen ProduzentInnen von Geodaten geworden, auch wenn es uns nicht immer bewusst ist. Die komplexen sozio-technischen Herstellungsprozesse all dieser Daten bleiben dabei häufig im Verborgenen und werden unhinterfragt als so genannte black boxes hingenommen.

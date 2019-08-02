@@ -1,20 +1,18 @@
 ---
-category: news
-title: Netzwerktreffen November 2018 in Wien
+title: Unser nächstes Treffen in Wien
+tags: News Workshops Wien
 ---
-
-# **Netzwerktreffen Digitale Geographien**, 8.-9. November 2018, Wien  
-
-„**Praxis und Zukunftsmöglichkeiten der digitalen Kartographie**“  
-
-Ort: TU Wien, Forschungsgruppe Kartographie
-
-[Erzherzog-Johann-Platz 1, 1040 Wien](https://goo.gl/maps/QFYGgZqa6uB2), 1. Stock
 
 Unser nächstes Netzwerktreffen – das erste seit dem Anlaufen der
 [DFG-Netzwerkförderung](http://digitale-geographien.de/news/dfg-foerderung-und-ankuendigung)! – wird wie
 gewohnt externe Beiträge mit Berichten aus dem Netzwerk und seinem Umfeld zusammenbringen, und sich als losem inhaltlichen
 Schwerpunkt, passend zum Austragungsort, unter anderem der digitalen Kartographie und Geovisualisierung widmen.
+
+Titel: „**Praxis und Zukunftsmöglichkeiten der digitalen Kartographie**“  
+
+Ort: TU Wien, Forschungsgruppe Kartographie
+
+[Erzherzog-Johann-Platz 1, 1040 Wien](https://goo.gl/maps/QFYGgZqa6uB2), 1. Stock
 
 Ein Teil der Beiträge soll dabei bewusst auch praktische Fragen der Umsetzung von digitaler Kartographie in
 unterschiedlichen Kontexten, sowie die sich daraus ergebenden Möglichkeiten, Einschränkungen und "Affordances", beleuchten.
@@ -115,4 +113,3 @@ und "[Learning QGIS](https://www.packtpub.com/big-data-and-business-intelligence
 ### 16:00 Uhr — Ende
 
 ----
-
