@@ -31,10 +31,10 @@ Bork-Hüffer, Tabea. 2017. „Beyond Smart City“. Singapurs „Smart Nation“
 
 [Lim, Sun Sun, Tabea Bork-Hüffer und Brenda SA Yeoh. 2016. Editorial. Mobility, Migration and New Media. Manoeuvring through Physical, Digital and Liminal Spaces. In: *New Media & Society 18*(10). 2147-2154.](http://journals.sagepub.com/doi/abs/10.1177/1461444816655610?rss=1)
 
-[Straube, Till. 2016. Stacked Spaces: Mapping Digital Infrastructures. In: *Big Data & Society 3*(2). 1–-12.](http://bds.sagepub.com/content/3/2/2053951716642456)
+[Straube, Till. 2016. Stacked Spaces: Mapping Digital Infrastructures. In: *Big Data & Society 3*(2). 1--12.](http://bds.sagepub.com/content/3/2/2053951716642456)
 
 [Straube, Till und Bernd Belina. 2018. Policing the Smart City. Eine Taxonomie polizeilicher Prognoseprogramme. In: Sybille Bauriedl und Anke Strüver (Hg.), *Smart City. Kritische Perspektiven auf die Digitalisierung in Städten.* Bielefeld: Transkript. 223--236.](https://www.transcript-verlag.de/978-3-8376-4336-7/smart-city-kritische-perspektiven-auf-die-digitalisierung-in-staedten/)
 
-[Straube, Till. 2018. Situating Digital Infrastructures. In: Rob Kitchin, Tracey P. Lauriault und Gavin McArdle (Hg). *Data and the City.* London: Routledge. 156-–170.](https://www.routledge.com/Data-and-the-City/Kitchin-Lauriault-McArdle/p/book/9781138222632)
+[Straube, Till. 2018. Situating Digital Infrastructures. In: Rob Kitchin, Tracey P. Lauriault und Gavin McArdle (Hg). *Data and the City.* London: Routledge. 156--170.](https://www.routledge.com/Data-and-the-City/Kitchin-Lauriault-McArdle/p/book/9781138222632)
 
 [Straube, Till. 2019. The Black Box and its Dis/contents. In: Marieke de Goede, Esmé Bosma und Polly Pallister-Wilkins (Hg.), *Secrecy and Methods in Security Research.* London: Routledge. 175--192.](https://www.taylorfrancis.com/books/9780429398186)
