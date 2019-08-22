@@ -1,12 +1,8 @@
 ---
 title: Mitglieder
 permalink: mitglieder
-order: 3
 layout: page
-show_in_sidebar: true
-published: true
 ---
-
 
 <!-- ************************
      * ACHTUNG BITTE LESEN! *
@@ -15,8 +11,6 @@ published: true
      Damit das mit den Zeilenumbrüchen hinhaut, müssen jeweils hinter der
      ersten Zeile (also hinter dem Namen, bzw. hinter der geschlossenen Klammer
      vom Link) noch zwei Leerzeichen stehen.  -->
-
-
 
 [Dr. Pablo Abend](http://www.locatingmedia.uni-siegen.de/pablo-abend/)    
 Universität Siegen

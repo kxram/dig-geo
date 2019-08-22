@@ -1,6 +1,6 @@
 ---
-category: news
-title: Nächstes Netzwerktreffen
+title: Netzwerktreffen beim DKG in Tübingen
+tags: News DKG Tübingen
 ---
 
 Das nächste Netzwerktreffen „Digitale Geographien“ findet während des Deutschen Kongresses für Geographie (DKG) 2017 

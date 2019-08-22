@@ -1,9 +1,9 @@
 ---
-layout: event 
-category: workshops
-title: Workshop „Praxis und Zukunft der digitalen Kartographie“
+title: Bericht vom Workshop „Praxis und Zukunft der digitalen Kartographie“
 zeit: 8.-9. November 2018
 ort: Forschungsgruppe Kartographie, TU Wien, Österreich
+image: /bilder/2018-wien-vsc.jpg
+tags: Berichte Workshops Wien
 ---
 
 Anfang November trafen sich die TeilnehmerInnen des Forschungsnetzwerks "Digitale Geographien" sowie Interessierte – insgesamt 23 TeilnehmerInnen – in Wien zum ersten Workshop seit dem Anlaufen der [DFG-Netzwerkförderung](http://digitale-geographien.de/news/dfg-foerderung-und-ankuendigung). Die dadurch geschaffene Möglichkeit, Reise- und Unterbringungskosten zu erstatten, erlaubte es uns, ein [zweitägiges, dichtes Programm](/news/ankuendigung-netzwerktreffen-wien) unter Einbeziehung externer ExpertInnen zu erstellen.

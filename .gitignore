@@ -18,6 +18,7 @@ _site
 # OS or Editor folders
 .DS_Store
 ._*
+Gemfile*
 Thumbs.db
 .cache
 .project

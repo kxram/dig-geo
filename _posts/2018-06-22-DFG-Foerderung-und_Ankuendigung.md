@@ -1,9 +1,6 @@
 ---
-category: news
-title: >-
-  Förderung des DFG-Netzwerks „Digitale Geographien – Geodaten – Code –
-  Gesellschaft“
-published: true
+title: Förderung durch die DFG
+tags: News
 ---
 
 Gute Nachrichten: wir werden ab sofort durch die Deutsche Forschungsgemeinschaft (DFG) gefördert als ein wissenschaftliches Netzwerk zum Thema „Digitale Geographien – Geodaten – Code – Gesellschaft“.
