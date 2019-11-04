@@ -5,7 +5,7 @@ ort: Institut für Geographie, Universität Innsbruck
 image: 
 tags: Netzwerktreffen Innsbruck 2020
 ---
-#Ankündigung des Netzwerktreffens Digitale Geographien in Innsbruck 12.&13. März 2020
+# Ankündigung des Netzwerktreffens Digitale Geographien in Innsbruck 12.&13. März 2020
 
 Am 12. und 13. März 2020 wird das nächste Netzwerktreffen „Digitale Geographien“ in Innsbruck stattfinden. Neben einem attraktiven Rahmenprogramm (Nachtskilauf!) widmet sich dieses Treffen diesmal ganz den Beiträgen und Diskussionen zum „Handbuch Digitale Geographien: Welt – Wissen – Werkzeuge“. Wir wollen die Zeit intensiv nutzen, um die Netzwerkarbeit über die weitere Konzeption unserer gemeinsamen Publikation und der Diskussion der individuellen Beiträge der Netzwerkmitglieder voranzubringen.
 Das offizielle Programm beginnt am 12. März um 14.00 Uhr in den Räumlichkeiten des Instituts für Geographie. Für Alle, die bereits vorher da sein können, bieten wir um 11 Uhr am 12. März eine digitalgeographische Exkursion an, die uns je nach Bedarf zu einer VR Tour in das historische Innsbruck oder zu einer Begehung des auf (live-) Geodaten spezialisierten Unternehmens „[Swarm Analytics](https://www.swarm-analytics.com/)" führt. Das offizielle Programm endet am 13. März 2020 um 16 Uhr, so dass bei Bedarf Verkehrsmittel zur Rückreise noch erreicht werden können. Wer Lust hat, die Nähe zu den Skipisten auszunutzen, ist herzlich eingeladen, im Anschluss an das Treffen am Skilaufen teilzunehmen. Bei guter Schneelage ist die Skipiste in Rinn bis 21 Uhr geöffnet.
@@ -13,11 +13,11 @@ Wir haben mit verschiedenen Innsbrucker Hotels Kontingente für den Zeitraum vom
 **Veranstaltungsort**: Leopold-Franzens-Universität Innsbruck, Institut für Geographie, Innrain 52f, 6020 Innsbruck
 **Organisation und Kontakt**: Christoph Schimmel ([mailto:christoph.schimmel@uibk.ac.at](christoph.schimmel@uibk.ac.at)) & Tabea Bork-Hüffer ([mailto:tabea.bork-hueffer@uibk.ac.at](tabea.bork-hueffer@uibk.ac.at)), beide Institut für Geographie, Universität Innsbruck
 
-##Vorläufiges Programm
+## Vorläufiges Programm
 
 Das finale Programm wird rechtzeitig per E-Mail zirkuliert.
 
-###Donnerstag, 12. März 2020
+### Donnerstag, 12. März 2020
 
 **Uhrzeit**|**TOP**
 -----------|----------
@@ -29,7 +29,7 @@ Das finale Programm wird rechtzeitig per E-Mail zirkuliert.
 18:00|Ende Tag 1
 19:00|Abendessen im Gasthaus Anich
 
-###Freitag, 13. März 2020
+### Freitag, 13. März 2020
 
 **Uhrzeit**|**TOP**
 -----------|----------
