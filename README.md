@@ -19,8 +19,8 @@ Das Format der Dateien ist Markdown, das dann automatisch in HTML umgewandelt wi
 1. Im Repository [ktiu/dig-geo][1] in den Ordner **[posts][2]** wechseln
 2. Auf **Create new file** clicken
 ![Create new file][image-2]
-2. Datei benennen. Dabei sollte das Format des Dateinamens (YYY-MM-DD-titel-mit-bindestrichen.md) eingehalten werden.
-3. In der Datei ganz oben steht der YAML-Header mit den Metadaten, z.B
+4. Datei benennen. Dabei sollte das Format des Dateinamens (YYY-MM-DD-titel-mit-bindestrichen.md) eingehalten werden.
+5. In der Datei ganz oben steht der YAML-Header mit den Metadaten, z.B
 ```
 ---
 title: Bericht vom Workshop „Praxis und Zukunft der digitalen Kartographie“
@@ -30,7 +30,7 @@ image: /bilder/2018-wien-vsc.jpg
 tags: Berichte Workshops Wien
 ---
 ```
-3. Darunter folgt der Text in Markdown/HTML
+6. Darunter folgt der Text in Markdown/HTML
 3. Auf **Commit new file** klicken
 4. Überprüfen und **Create pull request** wählen
 5. Ggf. eine kurze Beschreibung / Erklärung der Änderungen verfassen und Pull request bestätigen
