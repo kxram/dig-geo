@@ -16,7 +16,7 @@ Wir haben mit verschiedenen Innsbrucker Hotels Kontingente für den Zeitraum vom
 
 **Veranstaltungsort**: Leopold-Franzens-Universität Innsbruck, Institut für Geographie, Innrain 52f, 6020 Innsbruck
 
-**Organisation und Kontakt**: Christoph Schimmel ([christoph.schimmel@uibk.ac.at](christoph.schimmel@uibk.ac.at)) & Tabea Bork-Hüffer ([tabea.bork-hueffer@uibk.ac.at](tabea.bork-hueffer@uibk.ac.at)), beide Institut für Geographie, Universität Innsbruck
+**Organisation und Kontakt**: Christoph Schimmel ([christoph.schimmel@uibk.ac.at](mailto:christoph.schimmel@uibk.ac.at)) & Tabea Bork-Hüffer ([tabea.bork-hueffer@uibk.ac.at](mailto:tabea.bork-hueffer@uibk.ac.at)), beide Institut für Geographie, Universität Innsbruck
 
 ## Vorläufiges Programm
 
